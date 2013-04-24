@@ -1,0 +1,1864 @@
+departure city,long. departure (decimal),lat. departure (decimal),departure country,arrival city,long. departure (decimal),lat. departure (decimal),arrival country,number of routes,distance
+Johannesburg,28.41,-25.566,South Africa,Cape Town,19.002,-33.942,South Africa,16,1299
+Cape Town,19.002,-33.942,South Africa,Johannesburg,28.41,-25.566,South Africa,14,1299
+Kigali,30.232,-1.948,Rwanda,Entebbe,32.739,0.07,Uganda,14,357
+Kigali,30.232,-1.948,Rwanda,Nairobi,37.545,-0.866,Kenya,10,821
+Bujumbura,29.53,-2.874,Burundi,Nairobi,37.545,-0.866,Kenya,9,918
+Ouagadougou,-1.188,12.588,Burkina Faso,Cotonou,2.64,6.595,Benin,9,787
+Cotonou,2.64,6.595,Benin,Ouagadougou,-1.188,12.588,Burkina Faso,9,787
+London,-0.103,51.795,United Kingdom,Sharm El Sheikh,34.658,28.628,Egypt,8,3854
+Douala,10.199,4.01,Cameroon,Bangui,18.864,4.664,Central African Republic,8,963
+Bangui,18.864,4.664,Central African Republic,Douala,10.199,4.01,Cameroon,8,963
+Dar Es Salaam,39.337,-6.797,Tanzania,Nairobi,37.545,-0.866,Kenya,7,688
+Monrovia,-9.938,6.389,Liberia,Accra,0.388,6.008,Ghana,7,1142
+Accra,0.388,6.008,Ghana,Monrovia,-9.938,6.389,Liberia,7,1142
+Kilimanjaro,37.124,-3.05,Tanzania,Mombasa,39.99,-3.392,Kenya,7,320
+Entebbe,32.739,0.07,Uganda,Kigali,30.232,-1.948,Rwanda,7,357
+Johannesburg,28.41,-25.566,South Africa,Durban,31.584,-29.951,South Africa,7,578
+Durban,31.584,-29.951,South Africa,Johannesburg,28.41,-25.566,South Africa,7,578
+Kinshasa,15.74,-3.977,Congo (Kinshasa),Douala,10.199,4.01,Cameroon,7,1080
+Conakry,-13.354,9.961,Guinea,Banjul,-16.421,13.563,Gambia,7,521
+Brussels,4.807,51.502,Belgium,Luanda,13.385,-8.764,Angola,7,6751
+Brussels,4.807,51.502,Belgium,Kigali,30.232,-1.948,Rwanda,7,6409
+Banjul,-16.421,13.563,Gambia,Conakry,-13.354,9.961,Guinea,7,521
+Abidjan,-3.878,5.435,Cote d'Ivoire,Lome,1.424,6.276,Togo,7,593
+Port Hartcourt,7.582,5.025,Nigeria,Abuja,7.438,9.011,Nigeria,7,443
+Abuja,7.438,9.011,Nigeria,Port Hartcourt,7.582,5.025,Nigeria,7,443
+Zanzibar,39.374,-5.704,Tanzania,Dar Es Salaam,39.337,-6.797,Tanzania,7,121
+Nairobi,37.545,-0.866,Kenya,Dar Es Salaam,39.337,-6.797,Tanzania,7,688
+Ouagadougou,-1.188,12.588,Burkina Faso,Niamey,2.306,13.802,Niger,7,401
+Niamey,2.306,13.802,Niger,Ouagadougou,-1.188,12.588,Burkina Faso,7,401
+Douala,10.199,4.01,Cameroon,Cotonou,2.64,6.595,Benin,7,884
+Cotonou,2.64,6.595,Benin,Douala,10.199,4.01,Cameroon,7,884
+Freetown,-12.66,9.027,Sierra Leone,Banjul,-16.421,13.563,Gambia,6,649
+Banjul,-16.421,13.563,Gambia,Freetown,-12.66,9.027,Sierra Leone,6,649
+Accra,0.388,6.008,Ghana,Lome,1.424,6.276,Togo,6,118
+Entebbe,32.739,0.07,Uganda,Addis Ababa,39.332,9.629,Ethiopia,6,1289
+Addis Ababa,39.332,9.629,Ethiopia,Entebbe,32.739,0.07,Uganda,6,1289
+Durban,31.584,-29.951,South Africa,Cape Town,19.002,-33.942,South Africa,6,1266
+Cape Town,19.002,-33.942,South Africa,Durban,31.584,-29.951,South Africa,6,1266
+Monrovia,-9.938,6.389,Liberia,Abidjan,-3.878,5.435,Cote d'Ivoire,6,678
+Brussels,4.807,51.502,Belgium,Monrovia,-9.938,6.389,Liberia,6,5197
+Brussels,4.807,51.502,Belgium,Ouagadougou,-1.188,12.588,Burkina Faso,6,4360
+Brussels,4.807,51.502,Belgium,Douala,10.199,4.01,Cameroon,6,5304
+Brussels,4.807,51.502,Belgium,Bujumbura,29.53,-2.874,Burundi,6,6482
+Brussels,4.807,51.502,Belgium,Banjul,-16.421,13.563,Gambia,6,4627
+Brussels,4.807,51.502,Belgium,Abidjan,-3.878,5.435,Cote d'Ivoire,6,5184
+Nairobi,37.545,-0.866,Kenya,Mombasa,39.99,-3.392,Kenya,6,390
+Dar Es Salaam,39.337,-6.797,Tanzania,Zanzibar,39.374,-5.704,Tanzania,6,121
+Manchester,-1.792,53.589,United Kingdom,Sharm El Sheikh,34.658,28.628,Egypt,5,4049
+Jeddah,39.26,22.132,Saudi Arabia,Khartoum,32.921,15.982,Sudan,5,954
+Douala,10.199,4.01,Cameroon,Libreville,9.687,0.764,Gabon,5,365
+Jeddah,39.26,22.132,Saudi Arabia,Alexandria,30.16,31.529,Egypt,5,1379
+Brussels,4.807,51.502,Belgium,Yaounde,11.922,4.204,Cameroon,5,5300
+Bamako,-7.917,12.889,Mali,Accra,0.388,6.008,Ghana,5,1189
+Accra,0.388,6.008,Ghana,Bamako,-7.917,12.889,Mali,5,1189
+Abidjan,-3.878,5.435,Cote d'Ivoire,Monrovia,-9.938,6.389,Liberia,5,678
+Mombasa,39.99,-3.392,Kenya,Kilimanjaro,37.124,-3.05,Tanzania,5,320
+Kilimanjaro,37.124,-3.05,Tanzania,Addis Ababa,39.332,9.629,Ethiopia,5,1430
+Addis Ababa,39.332,9.629,Ethiopia,Kilimanjaro,37.124,-3.05,Tanzania,5,1430
+Yaounde,11.922,4.204,Cameroon,Douala,10.199,4.01,Cameroon,5,192
+Douala,10.199,4.01,Cameroon,Yaounde,11.922,4.204,Cameroon,5,192
+Lusaka,28.754,-14.885,Zambia,Harare,31.154,-17.887,Zimbabwe,5,420
+Khartoum,32.921,15.982,Sudan,Addis Ababa,39.332,9.629,Ethiopia,5,990
+Kigali,30.232,-1.948,Rwanda,Bujumbura,29.53,-2.874,Burundi,5,129
+Bujumbura,29.53,-2.874,Burundi,Kigali,30.232,-1.948,Rwanda,5,129
+Addis Ababa,39.332,9.629,Ethiopia,Khartoum,32.921,15.982,Sudan,5,990
+Luxor,33.177,26.118,Egypt,Hurghada,34.332,27.297,Egypt,5,174
+Mombasa,39.99,-3.392,Kenya,Nairobi,37.545,-0.866,Kenya,5,390
+Juba,32.001,5.453,South Sudan,Nairobi,37.545,-0.866,Kenya,5,934
+Libreville,9.687,0.764,Gabon,Cotonou,2.64,6.595,Benin,5,1015
+Dakar,-17.151,15.232,Senegal,Bamako,-7.917,12.889,Mali,5,1029
+Cotonou,2.64,6.595,Benin,Libreville,9.687,0.764,Gabon,5,1015
+Bamako,-7.917,12.889,Mali,Dakar,-17.151,15.232,Senegal,5,1029
+Nairobi,37.545,-0.866,Kenya,Addis Ababa,39.332,9.629,Ethiopia,4,1183
+Addis Ababa,39.332,9.629,Ethiopia,Nairobi,37.545,-0.866,Kenya,4,1183
+Riyadh,47.164,25.596,Saudi Arabia,Alexandria,30.16,31.529,Egypt,4,1784
+Kuwait,48.614,29.377,Kuwait,Sohag,32.238,26.568,Egypt,4,1636
+Kuwait,48.614,29.377,Kuwait,Alexandria,30.16,31.529,Egypt,4,1782
+Harare,31.154,-17.887,Zimbabwe,Lusaka,28.754,-14.885,Zambia,4,420
+Bamako,-7.917,12.889,Mali,Abidjan,-3.878,5.435,Cote d'Ivoire,4,939
+Abidjan,-3.878,5.435,Cote d'Ivoire,Bamako,-7.917,12.889,Mali,4,939
+Abuja,7.438,9.011,Nigeria,Kano,8.874,12.079,Nigeria,4,375
+Frankfurt,8.905,50.044,Germany,Abuja,7.438,9.011,Nigeria,4,4564
+Brussels,4.807,51.502,Belgium,Bamako,-7.917,12.889,Mali,4,4443
+Brussels,4.807,51.502,Belgium,Accra,0.388,6.008,Ghana,4,5075
+Malabo,9.181,4.258,Equatorial Guinea,Douala,10.199,4.01,Cameroon,4,116
+Douala,10.199,4.01,Cameroon,Malabo,9.181,4.258,Equatorial Guinea,4,116
+Mombasa,39.99,-3.392,Kenya,Addis Ababa,39.332,9.629,Ethiopia,4,1449
+London,-0.103,51.795,United Kingdom,Luxor,33.177,26.118,Egypt,4,3990
+Port Elizabeth,26.028,-33.975,South Africa,Cape Town,19.002,-33.942,South Africa,4,647
+Maputo,32.954,-25.869,Mozambique,Johannesburg,28.41,-25.566,South Africa,4,456
+London,-0.103,51.795,United Kingdom,Johannesburg,28.41,-25.566,South Africa,4,9040
+London,-0.103,51.795,United Kingdom,Cape Town,19.002,-33.942,South Africa,4,9713
+London,-0.103,51.795,United Kingdom,Marrakech,-7.394,32.011,Morocco,4,2278
+Johannesburg,28.41,-25.566,South Africa,Port Elizabeth,26.028,-33.975,South Africa,4,962
+Johannesburg,28.41,-25.566,South Africa,Maputo,32.954,-25.869,Mozambique,4,456
+Johannesburg,28.41,-25.566,South Africa,George,22.631,-33.343,South Africa,4,1029
+George,22.631,-33.343,South Africa,Johannesburg,28.41,-25.566,South Africa,4,1029
+Cape Town,19.002,-33.942,South Africa,Port Elizabeth,26.028,-33.975,South Africa,4,647
+Lagos,3.535,6.962,Nigeria,Accra,0.388,6.008,Ghana,4,363
+Abu Dhabi,55.085,24.721,United Arab Emirates,Johannesburg,28.41,-25.566,South Africa,4,6284
+Paris,2.916,49.021,France,Oran,-0.369,36.039,Algeria,4,1468
+Nairobi,37.545,-0.866,Kenya,Kigali,30.232,-1.948,Rwanda,4,821
+Lusaka,28.754,-14.885,Zambia,Lilongwe,34.301,-13.649,Malawi,4,613
+Lilongwe,34.301,-13.649,Malawi,Lusaka,28.754,-14.885,Zambia,4,613
+Djibouti,43.265,11.912,Djibouti,Addis Ababa,39.332,9.629,Ethiopia,4,498
+Dzaoudzi,45.468,-12.675,Mayotte,Moroni,43.453,-11.223,Comoros,4,272
+Paris,2.916,49.021,France,Algier,3.359,37.151,Algeria,4,1320
+Port Hartcourt,7.582,5.025,Nigeria,Lagos,3.535,6.962,Nigeria,4,496
+Lagos,3.535,6.962,Nigeria,Port Hartcourt,7.582,5.025,Nigeria,4,496
+Paris,2.916,49.021,France,Marrakech,-7.394,32.011,Morocco,4,2078
+Paris,2.916,49.021,France,Casablanca,-7.317,33.612,Morocco,4,1910
+Paris,2.916,49.021,France,Agadir,-9.244,30.635,Morocco,4,2286
+Boa Vista,-22.815,16.227,Cape Verde,Amilcar Cabral,-22.916,17.235,Cape Verde,4,112
+Zanzibar,39.374,-5.704,Tanzania,Mombasa,39.99,-3.392,Kenya,4,265
+Nairobi,37.545,-0.866,Kenya,Entebbe,32.739,0.07,Uganda,4,544
+Mombasa,39.99,-3.392,Kenya,Zanzibar,39.374,-5.704,Tanzania,4,265
+Hurghada,34.332,27.297,Egypt,Sharm El Sheikh,34.658,28.628,Egypt,4,151
+Lyon,5.151,46.21,France,Casablanca,-7.317,33.612,Morocco,4,1754
+Barcelona,2.13,41.495,Spain,Tanger,-5.862,36.211,Morocco,4,907
+Ouagadougou,-1.188,12.588,Burkina Faso,Bamako,-7.917,12.889,Mali,4,730
+Paris,2.916,49.021,France,Djerba,11.292,34.458,Tunisia,3,1759
+London,-0.103,51.795,United Kingdom,Hurghada,34.332,27.297,Egypt,3,3952
+East Midlands,-0.881,53.385,United Kingdom,Sharm El Sheikh,34.658,28.628,Egypt,3,3986
+Riyadh,47.164,25.596,Saudi Arabia,Khartoum,32.921,15.982,Sudan,3,1823
+Libreville,9.687,0.764,Gabon,Douala,10.199,4.01,Cameroon,3,365
+Brussels,4.807,51.502,Belgium,Cairo,31.675,30.203,Egypt,3,3237
+Bangkok,101.245,14.135,Thailand,Cairo,31.675,30.203,Egypt,3,7278
+St.-denis,55.85,-20.812,Reunion,Plaisance,58.139,-20.051,Mauritius,3,253
+Plaisance,58.139,-20.051,Mauritius,St.-pierre,55.705,-20.867,Reunion,3,269
+Plaisance,58.139,-20.051,Mauritius,St.-denis,55.85,-20.812,Reunion,3,253
+Dzaoudzi,45.468,-12.675,Mayotte,Antananarivo,47.798,-18.662,Madagascar,3,710
+Zurich,8.915,47.774,Switzerland,Douala,10.199,4.01,Cameroon,3,4867
+Lagos,3.535,6.962,Nigeria,Cotonou,2.64,6.595,Benin,3,106
+Khartoum,32.921,15.982,Sudan,Cairo,31.675,30.203,Egypt,3,1586
+Cairo,31.675,30.203,Egypt,Khartoum,32.921,15.982,Sudan,3,1586
+Kilimanjaro,37.124,-3.05,Tanzania,Dar Es Salaam,39.337,-6.797,Tanzania,3,483
+Kuwait,48.614,29.377,Kuwait,Cairo,31.675,30.203,Egypt,3,1635
+Frankfurt,8.905,50.044,Germany,Cairo,31.675,30.203,Egypt,3,2911
+Madrid,-3.278,40.822,Spain,Cairo,31.675,30.203,Egypt,3,3350
+Sharm El Sheikh,34.658,28.628,Egypt,Hurghada,34.332,27.297,Egypt,3,151
+Nairobi,37.545,-0.866,Kenya,Bujumbura,29.53,-2.874,Burundi,3,918
+Lome,1.424,6.276,Togo,Bamako,-7.917,12.889,Mali,3,1260
+Johannesburg,28.41,-25.566,South Africa,Addis Ababa,39.332,9.629,Ethiopia,3,4088
+Brazzaville,15.421,-3.753,Congo (Kinshasa),Libreville,9.687,0.764,Gabon,3,811
+Bamako,-7.917,12.889,Mali,Lome,1.424,6.276,Togo,3,1260
+Addis Ababa,39.332,9.629,Ethiopia,Johannesburg,28.41,-25.566,South Africa,3,4088
+Addis Ababa,39.332,9.629,Ethiopia,Djibouti,43.265,11.912,Djibouti,3,498
+Dubai,55.607,25.421,United Arab Emirates,Nairobi,37.545,-0.866,Kenya,3,3509
+Dubai,55.607,25.421,United Arab Emirates,Khartoum,32.921,15.982,Sudan,3,2577
+Dubai,55.607,25.421,United Arab Emirates,Cairo,31.675,30.203,Egypt,3,2408
+Dubai,55.607,25.421,United Arab Emirates,Addis Ababa,39.332,9.629,Ethiopia,3,2456
+Accra,0.388,6.008,Ghana,Abidjan,-3.878,5.435,Cote d'Ivoire,3,476
+Abidjan,-3.878,5.435,Cote d'Ivoire,Accra,0.388,6.008,Ghana,3,476
+Kuwait,48.614,29.377,Kuwait,Asyut,31.019,27.077,Egypt,3,1740
+Dubai,55.607,25.421,United Arab Emirates,Luanda,13.385,-8.764,Angola,3,5942
+Bissau,-15.423,12.491,Guinea-Bissau,Dakar,-17.151,15.232,Senegal,3,357
+Dakar,-17.151,15.232,Senegal,Bissau,-15.423,12.491,Guinea-Bissau,3,357
+Dakar,-17.151,15.232,Senegal,Banjul,-16.421,13.563,Gambia,3,201
+Cotonou,2.64,6.595,Benin,Abidjan,-3.878,5.435,Cote d'Ivoire,3,732
+Conakry,-13.354,9.961,Guinea,Abidjan,-3.878,5.435,Cote d'Ivoire,3,1158
+Banjul,-16.421,13.563,Gambia,Dakar,-17.151,15.232,Senegal,3,201
+Abidjan,-3.878,5.435,Cote d'Ivoire,Cotonou,2.64,6.595,Benin,3,732
+Abidjan,-3.878,5.435,Cote d'Ivoire,Conakry,-13.354,9.961,Guinea,3,1158
+Accra,0.388,6.008,Ghana,Abuja,7.438,9.011,Nigeria,3,845
+Abuja,7.438,9.011,Nigeria,Accra,0.388,6.008,Ghana,3,845
+Pointe-noire,12.477,-4.694,Congo (Brazzaville),Cotonou,2.64,6.595,Benin,3,1663
+Jeddah,39.26,22.132,Saudi Arabia,Asmara,39.517,15.486,Eritrea,3,739
+London,-0.103,51.795,United Kingdom,Agadir,-9.244,30.635,Morocco,3,2469
+Dar Es Salaam,39.337,-6.797,Tanzania,Addis Ababa,39.332,9.629,Ethiopia,3,1826
+Addis Ababa,39.332,9.629,Ethiopia,Mombasa,39.99,-3.392,Kenya,3,1449
+Addis Ababa,39.332,9.629,Ethiopia,Dar Es Salaam,39.337,-6.797,Tanzania,3,1826
+Windhoek,17.77,-22.145,Namibia,Johannesburg,28.41,-25.566,South Africa,3,1146
+Port Elizabeth,26.028,-33.975,South Africa,Johannesburg,28.41,-25.566,South Africa,3,962
+Port Elizabeth,26.028,-33.975,South Africa,Durban,31.584,-29.951,South Africa,3,688
+Plaisance,58.139,-20.051,Mauritius,Johannesburg,28.41,-25.566,South Africa,3,3101
+Livingstone,26.371,-17.703,Zambia,Johannesburg,28.41,-25.566,South Africa,3,899
+London,-0.103,51.795,United Kingdom,Nairobi,37.545,-0.866,Kenya,3,6834
+London,-0.103,51.795,United Kingdom,Lagos,3.535,6.962,Nigeria,3,4996
+London,-0.103,51.795,United Kingdom,Cairo,31.675,30.203,Egypt,3,3538
+Johannesburg,28.41,-25.566,South Africa,Windhoek,17.77,-22.145,Namibia,3,1146
+Johannesburg,28.41,-25.566,South Africa,Plaisance,58.139,-20.051,Mauritius,3,3101
+Johannesburg,28.41,-25.566,South Africa,Livingstone,26.371,-17.703,Zambia,3,899
+Johannesburg,28.41,-25.566,South Africa,Harare,31.154,-17.887,Zimbabwe,3,899
+Harare,31.154,-17.887,Zimbabwe,Johannesburg,28.41,-25.566,South Africa,3,899
+Durban,31.584,-29.951,South Africa,Port Elizabeth,26.028,-33.975,South Africa,3,688
+Amsterdam,5.273,52.514,Netherlands,Nairobi,37.545,-0.866,Kenya,3,6653
+Tunis,10.378,37.418,Tunisia,Casablanca,-7.317,33.612,Morocco,3,1653
+Riyadh,47.164,25.596,Saudi Arabia,Cairo,31.675,30.203,Egypt,3,1604
+Cotonou,2.64,6.595,Benin,Lagos,3.535,6.962,Nigeria,3,106
+Casablanca,-7.317,33.612,Morocco,Tunis,10.378,37.418,Tunisia,3,1653
+Milano,9.213,46.051,Italy,Tunis,10.378,37.418,Tunisia,3,964
+Milano,9.213,46.051,Italy,Cairo,31.675,30.203,Egypt,3,2622
+Delhi,77.171,28.944,India,Addis Ababa,39.332,9.629,Ethiopia,3,4484
+Paris,2.916,49.021,France,Annaba,8.348,37.37,Algeria,3,1367
+Paris,2.916,49.021,France,St.-denis,55.85,-20.812,Reunion,3,9361
+Nairobi,37.545,-0.866,Kenya,Lusaka,28.754,-14.885,Zambia,3,1833
+Nairobi,37.545,-0.866,Kenya,Lilongwe,34.301,-13.649,Malawi,3,1465
+Nairobi,37.545,-0.866,Kenya,Djibouti,43.265,11.912,Djibouti,3,1554
+Marseille,5.356,43.725,France,Algier,3.359,37.151,Algeria,3,750
+Lusaka,28.754,-14.885,Zambia,Nairobi,37.545,-0.866,Kenya,3,1833
+Lilongwe,34.301,-13.649,Malawi,Nairobi,37.545,-0.866,Kenya,3,1465
+Paris,2.916,49.021,France,Tunis,10.378,37.418,Tunisia,3,1423
+Paris,2.916,49.021,France,Niamey,2.306,13.802,Niger,3,3916
+Paris,2.916,49.021,France,Plaisance,58.139,-20.051,Mauritius,3,9417
+Paris,2.916,49.021,France,Dakar,-17.151,15.232,Senegal,3,4176
+Paris,2.916,49.021,France,Cairo,31.675,30.203,Egypt,3,3198
+Amsterdam,5.273,52.514,Netherlands,Khartoum,32.921,15.982,Sudan,3,4731
+Munich,12.31,48.589,Germany,Hurghada,34.332,27.297,Egypt,3,3032
+Frankfurt,8.905,50.044,Germany,Hurghada,34.332,27.297,Egypt,3,3324
+Djerba,11.292,34.458,Tunisia,Enfidha,10.731,36.126,Tunisia,3,192
+Bombay,73.446,19.147,India,Johannesburg,28.41,-25.566,South Africa,3,6957
+Lagos,3.535,6.962,Nigeria,Abuja,7.438,9.011,Nigeria,3,486
+Abuja,7.438,9.011,Nigeria,Lagos,3.535,6.962,Nigeria,3,486
+N'djamena,15.056,12.222,Chad,Douala,10.199,4.01,Cameroon,3,1057
+Douala,10.199,4.01,Cameroon,N'djamena,15.056,12.222,Chad,3,1057
+Paris,2.916,49.021,France,Rabat,-6.586,34.085,Morocco,3,1836
+Paris,2.916,49.021,France,Oujda,-1.874,35.311,Morocco,3,1573
+Milano,9.213,46.051,Italy,Casablanca,-7.317,33.612,Morocco,3,1968
+Marseille,5.356,43.725,France,Casablanca,-7.317,33.612,Morocco,3,1569
+Lyon,5.151,46.21,France,Marrakech,-7.394,32.011,Morocco,3,1909
+Johannesburg,28.41,-25.566,South Africa,Mpumalanga,31.176,-24.972,South Africa,3,285
+Zanzibar,39.374,-5.704,Tanzania,Nairobi,37.545,-0.866,Kenya,3,574
+Nairobi,37.545,-0.866,Kenya,Kilimanjaro,37.124,-3.05,Tanzania,3,247
+Nairobi,37.545,-0.866,Kenya,Kisumu,35.214,0.523,Kenya,3,301
+Malindi,40.169,-2.716,Kenya,Nairobi,37.545,-0.866,Kenya,3,356
+Kisumu,35.214,0.523,Kenya,Nairobi,37.545,-0.866,Kenya,3,301
+Entebbe,32.739,0.07,Uganda,Nairobi,37.545,-0.866,Kenya,3,544
+Marsa Alam,34.972,25.928,Egypt,Sharm El Sheikh,34.658,28.628,Egypt,3,301
+Luxor,33.177,26.118,Egypt,Sharm El Sheikh,34.658,28.628,Egypt,3,315
+Istanbul,29.357,41.628,Turkey,Casablanca,-7.317,33.612,Morocco,3,3323
+Brussels,4.807,51.502,Belgium,Casablanca,-7.317,33.612,Morocco,3,2216
+Barcelona,2.13,41.495,Spain,Casablanca,-7.317,33.612,Morocco,3,1207
+Ouagadougou,-1.188,12.588,Burkina Faso,Abidjan,-3.878,5.435,Cote d'Ivoire,3,848
+Paris,2.916,49.021,France,Ouagadougou,-1.188,12.588,Burkina Faso,3,4068
+Bamako,-7.917,12.889,Mali,Ouagadougou,-1.188,12.588,Burkina Faso,3,730
+Abidjan,-3.878,5.435,Cote d'Ivoire,Ouagadougou,-1.188,12.588,Burkina Faso,3,848
+Sokoto,5.345,13.527,Nigeria,Abuja,7.438,9.011,Nigeria,2,551
+Lagos,3.535,6.962,Nigeria,Enugu,7.936,6.79,Nigeria,2,486
+Kano,8.874,12.079,Nigeria,Abuja,7.438,9.011,Nigeria,2,375
+Enugu,7.936,6.79,Nigeria,Lagos,3.535,6.962,Nigeria,2,486
+Enugu,7.936,6.79,Nigeria,Abuja,7.438,9.011,Nigeria,2,252
+Accra,0.388,6.008,Ghana,Lagos,3.535,6.962,Nigeria,2,363
+Abuja,7.438,9.011,Nigeria,Sokoto,5.345,13.527,Nigeria,2,551
+Abuja,7.438,9.011,Nigeria,Enugu,7.936,6.79,Nigeria,2,252
+Lisbon,-8.56,39.302,Portugal,Sao Vicente Island,-24.425,17.389,Cape Verde,2,2879
+Lisbon,-8.56,39.302,Portugal,Amilcar Cabral,-22.916,17.235,Cape Verde,2,2819
+Lisbon,-8.56,39.302,Portugal,"Praia,Santiago Island",-23.156,15.54,Cape Verde,2,3000
+Manchester,-1.792,53.589,United Kingdom,Marrakech,-7.394,32.011,Morocco,2,2440
+Paris,2.916,49.021,France,Monastir,11.257,36.263,Tunisia,2,1571
+Lyon,5.151,46.21,France,Monastir,11.257,36.263,Tunisia,2,1217
+Lisbon,-8.56,39.302,Portugal,Maputo,32.954,-25.869,Mozambique,2,8430
+Istanbul,29.357,41.628,Turkey,Tunis,10.378,37.418,Tunisia,2,1689
+Newcastle,-1.487,55.062,United Kingdom,Sharm El Sheikh,34.658,28.628,Egypt,2,4113
+Manchester,-1.792,53.589,United Kingdom,Enfidha,10.731,36.126,Tunisia,2,2170
+Manchester,-1.792,53.589,United Kingdom,Luxor,33.177,26.118,Egypt,2,4194
+Manchester,-1.792,53.589,United Kingdom,Hurghada,34.332,27.297,Egypt,2,4151
+London,-0.103,51.795,United Kingdom,Enfidha,10.731,36.126,Tunisia,2,1941
+Glasgow,-4.056,56.453,United Kingdom,Sharm El Sheikh,34.658,28.628,Egypt,2,4329
+Birmingham,-1.581,52.756,United Kingdom,Sharm El Sheikh,34.658,28.628,Egypt,2,3993
+Jeddah,39.26,22.132,Saudi Arabia,Tunis,10.378,37.418,Tunisia,2,3244
+Moscow,38.51,55.681,Russia,Hurghada,34.332,27.297,Egypt,2,3173
+Walvis Bay,15.075,-22.967,Namibia,Cape Town,19.002,-33.942,South Africa,2,1278
+Windhoek,17.77,-22.145,Namibia,Cape Town,19.002,-33.942,South Africa,2,1317
+Tete,34.066,-15.509,Mozambique,Johannesburg,28.41,-25.566,South Africa,2,1263
+Singapore,104.657,1.583,Singapore,Johannesburg,28.41,-25.566,South Africa,2,8708
+Pietersburg,29.807,-23.877,South Africa,Johannesburg,28.41,-25.566,South Africa,2,234
+Lagos,3.535,6.962,Nigeria,Johannesburg,28.41,-25.566,South Africa,2,4506
+Johannesburg,28.41,-25.566,South Africa,Tete,34.066,-15.509,Mozambique,2,1263
+Johannesburg,28.41,-25.566,South Africa,Pietersburg,29.807,-23.877,South Africa,2,234
+Johannesburg,28.41,-25.566,South Africa,Lagos,3.535,6.962,Nigeria,2,4506
+Johannesburg,28.41,-25.566,South Africa,East London,28.376,-32.393,South Africa,2,759
+Johannesburg,28.41,-25.566,South Africa,Dakar,-17.151,15.232,Senegal,2,6700
+Johannesburg,28.41,-25.566,South Africa,Beira,35.512,-19.661,Mozambique,2,980
+New York,-73.632,41.066,United States,Johannesburg,28.41,-25.566,South Africa,2,12806
+Washington,-77.094,39.574,United States,Dakar,-17.151,15.232,Senegal,2,6374
+East London,28.376,-32.393,South Africa,Johannesburg,28.41,-25.566,South Africa,2,759
+East London,28.376,-32.393,South Africa,Cape Town,19.002,-33.942,South Africa,2,889
+Dakar,-17.151,15.232,Senegal,Johannesburg,28.41,-25.566,South Africa,2,6700
+Cape Town,19.002,-33.942,South Africa,Walvis Bay,15.075,-22.967,Namibia,2,1278
+Cape Town,19.002,-33.942,South Africa,Windhoek,17.77,-22.145,Namibia,2,1317
+Cape Town,19.002,-33.942,South Africa,East London,28.376,-32.393,South Africa,2,889
+Bangkok,101.245,14.135,Thailand,Johannesburg,28.41,-25.566,South Africa,2,9030
+Beira,35.512,-19.661,Mozambique,Johannesburg,28.41,-25.566,South Africa,2,980
+Damascus,36.857,33.684,Syria,Tunis,10.378,37.418,Tunisia,2,2422
+Damascus,36.857,33.684,Syria,Khartoum,32.921,15.982,Sudan,2,2007
+Doha,51.941,25.435,Qatar,Khartoum,32.921,15.982,Sudan,2,2236
+Sydney,151.295,-33.911,Australia,Johannesburg,28.41,-25.566,South Africa,2,11068
+Perth,116.611,-31.901,Australia,Johannesburg,28.41,-25.566,South Africa,2,8383
+Johannesburg,28.41,-25.566,South Africa,Dar Es Salaam,39.337,-6.797,Tanzania,2,2387
+Dar Es Salaam,39.337,-6.797,Tanzania,Kilimanjaro,37.124,-3.05,Tanzania,2,483
+Dar Es Salaam,39.337,-6.797,Tanzania,Johannesburg,28.41,-25.566,South Africa,2,2387
+Istanbul,29.357,41.628,Turkey,Nairobi,37.545,-0.866,Kenya,2,4796
+Vienna,16.949,48.183,Austria,Cairo,31.675,30.203,Egypt,2,2358
+Tunis,10.378,37.418,Tunisia,Cairo,31.675,30.203,Egypt,2,2118
+Madinah,40.175,24.922,Saudi Arabia,Cairo,31.675,30.203,Egypt,2,1022
+Muscat,58.474,23.988,Oman,Cairo,31.675,30.203,Egypt,2,2734
+Johannesburg,28.41,-25.566,South Africa,Cairo,31.675,30.203,Egypt,2,6210
+New York,-73.632,41.066,United States,Cairo,31.675,30.203,Egypt,2,8993
+Jeddah,39.26,22.132,Saudi Arabia,Cairo,31.675,30.203,Egypt,2,1173
+Istanbul,29.357,41.628,Turkey,Alexandria,30.16,31.529,Egypt,2,1125
+Istanbul,29.357,41.628,Turkey,Cairo,31.675,30.203,Egypt,2,1287
+Doha,51.941,25.435,Qatar,Cairo,31.675,30.203,Egypt,2,2059
+Dammam,50.329,26.785,Saudi Arabia,Cairo,31.675,30.203,Egypt,2,1859
+Moscow,38.51,55.681,Russia,Cairo,31.675,30.203,Egypt,2,2883
+Damascus,36.857,33.684,Syria,Cairo,31.675,30.203,Egypt,2,623
+Copenhagen,13.093,56.029,Denmark,Cairo,31.675,30.203,Egypt,2,3220
+Cairo,31.675,30.203,Egypt,Tunis,10.378,37.418,Tunisia,2,2118
+Cairo,31.675,30.203,Egypt,Johannesburg,28.41,-25.566,South Africa,2,6210
+Athens,24.574,38.56,Greece,Cairo,31.675,30.203,Egypt,2,1134
+Amman,36.655,32.204,Jordan,Cairo,31.675,30.203,Egypt,2,523
+Aleppo,37.373,36.301,Syria,Cairo,31.675,30.203,Egypt,2,860
+Abha,43.094,18.4,Saudi Arabia,Cairo,31.675,30.203,Egypt,2,1747
+St.-pierre,55.705,-20.867,Reunion,Plaisance,58.139,-20.051,Mauritius,2,269
+Plaisance,58.139,-20.051,Mauritius,Durban,31.584,-29.951,South Africa,2,2884
+Plaisance,58.139,-20.051,Mauritius,Cape Town,19.002,-33.942,South Africa,2,4143
+Durban,31.584,-29.951,South Africa,Plaisance,58.139,-20.051,Mauritius,2,2884
+Cape Town,19.002,-33.942,South Africa,Plaisance,58.139,-20.051,Mauritius,2,4143
+Singapore,104.657,1.583,Singapore,Plaisance,58.139,-20.051,Mauritius,2,5610
+Kuala Lumpur,102.183,3.242,Malaysia,Plaisance,58.139,-20.051,Mauritius,2,5459
+Kuala Lumpur,102.183,3.242,Malaysia,Johannesburg,28.41,-25.566,South Africa,2,8546
+Beirut,35.813,34.368,Lebanon,Tunis,10.378,37.418,Tunisia,2,2308
+Beirut,35.813,34.368,Lebanon,Cairo,31.675,30.203,Egypt,2,604
+Antananarivo,47.798,-18.662,Madagascar,St.-denis,55.85,-20.812,Reunion,2,875
+Antananarivo,47.798,-18.662,Madagascar,Plaisance,58.139,-20.051,Mauritius,2,1095
+Antananarivo,47.798,-18.662,Madagascar,Johannesburg,28.41,-25.566,South Africa,2,2136
+Antananarivo,47.798,-18.662,Madagascar,Dzaoudzi,45.468,-12.675,Mayotte,2,710
+Toamasina,49.654,-17.516,Madagascar,St.-denis,55.85,-20.812,Reunion,2,746
+St.-denis,55.85,-20.812,Reunion,Antananarivo,47.798,-18.662,Madagascar,2,875
+St.-denis,55.85,-20.812,Reunion,Toamasina,49.654,-17.516,Madagascar,2,746
+Plaisance,58.139,-20.051,Mauritius,Antananarivo,47.798,-18.662,Madagascar,2,1095
+Mahajanga,46.586,-15.446,Madagascar,Dzaoudzi,45.468,-12.675,Mayotte,2,330
+Johannesburg,28.41,-25.566,South Africa,Antananarivo,47.798,-18.662,Madagascar,2,2136
+Moroni,43.453,-11.223,Comoros,Dzaoudzi,45.468,-12.675,Mayotte,2,272
+Dzaoudzi,45.468,-12.675,Mayotte,Mahajanga,46.586,-15.446,Madagascar,2,330
+Bangkok,101.245,14.135,Thailand,Antananarivo,47.798,-18.662,Madagascar,2,6897
+Nyala,25.593,12.089,Sudan,Khartoum,32.921,15.982,Sudan,2,901
+Khartoum,32.921,15.982,Sudan,Nyala,25.593,12.089,Sudan,2,901
+Khartoum,32.921,15.982,Sudan,El Fasher,25.541,14.024,Sudan,2,821
+Khartoum,32.921,15.982,Sudan,Geneina,22.778,13.802,Sudan,2,1116
+Juba,32.001,5.453,South Sudan,Khartoum,32.921,15.982,Sudan,2,1175
+El Fasher,25.541,14.024,Sudan,Khartoum,32.921,15.982,Sudan,2,821
+Zurich,8.915,47.774,Switzerland,Johannesburg,28.41,-25.566,South Africa,2,8384
+Zurich,8.915,47.774,Switzerland,Cairo,31.675,30.203,Egypt,2,2752
+Geneva,6.181,46.396,Switzerland,Cairo,31.675,30.203,Egypt,2,2839
+Warsaw,21.611,52.276,Poland,Cairo,31.675,30.203,Egypt,2,2588
+Tunis,10.378,37.418,Tunisia,Tripoli,13.265,33.105,Libya,2,546
+Tunis,10.378,37.418,Tunisia,Benghazi,20.449,32.161,Libya,2,1088
+Tripoli,13.265,33.105,Libya,Tunis,10.378,37.418,Tunisia,2,546
+Tripoli,13.265,33.105,Libya,Cairo,31.675,30.203,Egypt,2,1769
+Cairo,31.675,30.203,Egypt,Tripoli,13.265,33.105,Libya,2,1769
+Cairo,31.675,30.203,Egypt,Benghazi,20.449,32.161,Libya,2,1089
+Benghazi,20.449,32.161,Libya,Tunis,10.378,37.418,Tunisia,2,1088
+Benghazi,20.449,32.161,Libya,Cairo,31.675,30.203,Egypt,2,1089
+Amman,36.655,32.204,Jordan,Tripoli,13.265,33.105,Libya,2,2187
+Zurich,8.915,47.774,Switzerland,Nairobi,37.545,-0.866,Kenya,2,6076
+Pointe-noire,12.477,-4.694,Congo (Brazzaville),Libreville,9.687,0.764,Gabon,2,681
+Munich,12.31,48.589,Germany,Johannesburg,28.41,-25.566,South Africa,2,8400
+Munich,12.31,48.589,Germany,Cairo,31.675,30.203,Egypt,2,2620
+Frankfurt,8.905,50.044,Germany,Tunis,10.378,37.418,Tunisia,2,1408
+Frankfurt,8.905,50.044,Germany,Johannesburg,28.41,-25.566,South Africa,2,8625
+Frankfurt,8.905,50.044,Germany,Cape Town,19.002,-33.942,South Africa,2,9391
+Malabo,9.181,4.258,Equatorial Guinea,Cotonou,2.64,6.595,Benin,2,769
+Cotonou,2.64,6.595,Benin,Malabo,9.181,4.258,Equatorial Guinea,2,769
+Antananarivo,47.798,-18.662,Madagascar,Nairobi,37.545,-0.866,Kenya,2,2273
+Pemba,40.87,-12.978,Mozambique,Nairobi,37.545,-0.866,Kenya,2,1395
+Pemba,40.87,-12.978,Mozambique,Maputo,32.954,-25.869,Mozambique,2,1655
+Nairobi,37.545,-0.866,Kenya,Zanzibar,39.374,-5.704,Tanzania,2,574
+Nairobi,37.545,-0.866,Kenya,Antananarivo,47.798,-18.662,Madagascar,2,2273
+Nairobi,37.545,-0.866,Kenya,Pemba,40.87,-12.978,Mozambique,2,1395
+Nairobi,37.545,-0.866,Kenya,Mwanza,33.554,-2.075,Tanzania,2,463
+Nairobi,37.545,-0.866,Kenya,Plaisance,58.139,-20.051,Mauritius,2,3093
+Nairobi,37.545,-0.866,Kenya,Lagos,3.535,6.962,Nigeria,2,3872
+Nairobi,37.545,-0.866,Kenya,Johannesburg,28.41,-25.566,South Africa,2,2916
+Mwanza,33.554,-2.075,Tanzania,Nairobi,37.545,-0.866,Kenya,2,463
+Mwanza,33.554,-2.075,Tanzania,Kilimanjaro,37.124,-3.05,Tanzania,2,411
+Plaisance,58.139,-20.051,Mauritius,Nairobi,37.545,-0.866,Kenya,2,3093
+Maputo,32.954,-25.869,Mozambique,Pemba,40.87,-12.978,Mozambique,2,1655
+Lagos,3.535,6.962,Nigeria,Nairobi,37.545,-0.866,Kenya,2,3872
+Kilimanjaro,37.124,-3.05,Tanzania,Nairobi,37.545,-0.866,Kenya,2,247
+Kilimanjaro,37.124,-3.05,Tanzania,Mwanza,33.554,-2.075,Tanzania,2,411
+Johannesburg,28.41,-25.566,South Africa,Nairobi,37.545,-0.866,Kenya,2,2916
+Jeddah,39.26,22.132,Saudi Arabia,Nairobi,37.545,-0.866,Kenya,2,2564
+Malta,14.795,36.429,Malta,Tripoli,13.265,33.105,Libya,2,395
+Ndola,29.108,-12.997,Zambia,Nairobi,37.545,-0.866,Kenya,2,1638
+Nairobi,37.545,-0.866,Kenya,Harare,31.154,-17.887,Zimbabwe,2,2017
+Muscat,58.474,23.988,Oman,Nairobi,37.545,-0.866,Kenya,2,3569
+Djibouti,43.265,11.912,Djibouti,Nairobi,37.545,-0.866,Kenya,2,1554
+Harare,31.154,-17.887,Zimbabwe,Nairobi,37.545,-0.866,Kenya,2,2017
+Kinshasa,15.74,-3.977,Congo (Kinshasa),Nairobi,37.545,-0.866,Kenya,2,2446
+Lubumashi,27.884,-11.319,Congo (Kinshasa),Ndola,29.108,-12.997,Zambia,2,229
+Brazzaville,15.421,-3.753,Congo (Kinshasa),Nairobi,37.545,-0.866,Kenya,2,2478
+Amsterdam,5.273,52.514,Netherlands,Cairo,31.675,30.203,Egypt,2,3281
+Barcelona,2.13,41.495,Spain,Cairo,31.675,30.203,Egypt,2,2924
+Johannesburg,28.41,-25.566,South Africa,Bloemfontein,26.504,-28.488,South Africa,2,375
+Cape Town,19.002,-33.942,South Africa,Bloemfontein,26.504,-28.488,South Africa,2,935
+Bloemfontein,26.504,-28.488,South Africa,Johannesburg,28.41,-25.566,South Africa,2,375
+Bloemfontein,26.504,-28.488,South Africa,Cape Town,19.002,-33.942,South Africa,2,935
+Kuwait,48.614,29.377,Kuwait,Luxor,33.177,26.118,Egypt,2,1560
+Sanaa,44.366,15.793,Yemen,Cairo,31.675,30.203,Egypt,2,2059
+Milano,9.213,46.051,Italy,Plaisance,58.139,-20.051,Mauritius,2,8844
+Madrid,-3.278,40.822,Spain,Malabo,9.181,4.258,Equatorial Guinea,2,4252
+Madrid,-3.278,40.822,Spain,Dakar,-17.151,15.232,Senegal,2,3145
+Barcelona,2.13,41.495,Spain,Marrakech,-7.394,32.011,Morocco,2,1351
+Nouakschott,-15.914,18.163,Mauritania,Bamako,-7.917,12.889,Mali,2,1037
+Kayes,-11.008,14.802,Mali,Bamako,-7.917,12.889,Mali,2,395
+Bamako,-7.917,12.889,Mali,Nouakschott,-15.914,18.163,Mauritania,2,1037
+Bamako,-7.917,12.889,Mali,Kayes,-11.008,14.802,Mali,2,395
+Marsa Alam,34.972,25.928,Egypt,Hurghada,34.332,27.297,Egypt,2,164
+Marrakech,-7.394,32.011,Morocco,Agadir,-9.244,30.635,Morocco,2,232
+Vienna,16.949,48.183,Austria,Sharm El Sheikh,34.658,28.628,Egypt,2,2652
+Vienna,16.949,48.183,Austria,Luxor,33.177,26.118,Egypt,2,2830
+Vienna,16.949,48.183,Austria,Hurghada,34.332,27.297,Egypt,2,2765
+Bahrain,51.056,26.451,Bahrain,Cairo,31.675,30.203,Egypt,2,1939
+Sharjah,55.861,25.547,United Arab Emirates,Khartoum,32.921,15.982,Sudan,2,2606
+Port Sudan,37.39,19.722,Sudan,Khartoum,32.921,15.982,Sudan,2,629
+Dubai,55.607,25.421,United Arab Emirates,Alexandria,30.16,31.529,Egypt,2,2571
+Taiz,44.231,14.143,Yemen,Djibouti,43.265,11.912,Djibouti,2,269
+Abu Dhabi,55.085,24.721,United Arab Emirates,Khartoum,32.921,15.982,Sudan,2,2502
+Abu Dhabi,55.085,24.721,United Arab Emirates,Cairo,31.675,30.203,Egypt,2,2383
+Malabo,9.181,4.258,Equatorial Guinea,Addis Ababa,39.332,9.629,Ethiopia,2,3379
+Riyadh,47.164,25.596,Saudi Arabia,Addis Ababa,39.332,9.629,Ethiopia,2,1958
+Milano,9.213,46.051,Italy,Addis Ababa,39.332,9.629,Ethiopia,2,4956
+Lagos,3.535,6.962,Nigeria,Douala,10.199,4.01,Cameroon,2,807
+Lome,1.424,6.276,Togo,Dakar,-17.151,15.232,Senegal,2,2258
+Lome,1.424,6.276,Togo,Addis Ababa,39.332,9.629,Ethiopia,2,4189
+Kuwait,48.614,29.377,Kuwait,Addis Ababa,39.332,9.629,Ethiopia,2,2399
+Kigali,30.232,-1.948,Rwanda,Addis Ababa,39.332,9.629,Ethiopia,2,1634
+Juba,32.001,5.453,South Sudan,Malakal,32.087,9.931,Sudan,2,498
+Juba,32.001,5.453,South Sudan,Addis Ababa,39.332,9.629,Ethiopia,2,931
+Jeddah,39.26,22.132,Saudi Arabia,Addis Ababa,39.332,9.629,Ethiopia,2,1390
+Istanbul,29.357,41.628,Turkey,Addis Ababa,39.332,9.629,Ethiopia,2,3689
+Frankfurt,8.905,50.044,Germany,Addis Ababa,39.332,9.629,Ethiopia,2,5294
+Rome,12.417,42.34,Italy,Addis Ababa,39.332,9.629,Ethiopia,2,4483
+Douala,10.199,4.01,Cameroon,Lagos,3.535,6.962,Nigeria,2,807
+Douala,10.199,4.01,Cameroon,Addis Ababa,39.332,9.629,Ethiopia,2,3274
+Dakar,-17.151,15.232,Senegal,Lome,1.424,6.276,Togo,2,2258
+Conakry,-13.354,9.961,Guinea,Bamako,-7.917,12.889,Mali,2,676
+Cairo,31.675,30.203,Egypt,Addis Ababa,39.332,9.629,Ethiopia,2,2421
+Brazzaville,15.421,-3.753,Congo (Kinshasa),Douala,10.199,4.01,Cameroon,2,1040
+Bamako,-7.917,12.889,Mali,Conakry,-13.354,9.961,Guinea,2,676
+Bangui,18.864,4.664,Central African Republic,Addis Ababa,39.332,9.629,Ethiopia,2,2323
+Addis Ababa,39.332,9.629,Ethiopia,Malabo,9.181,4.258,Equatorial Guinea,2,3379
+Addis Ababa,39.332,9.629,Ethiopia,Lome,1.424,6.276,Togo,2,4189
+Addis Ababa,39.332,9.629,Ethiopia,Douala,10.199,4.01,Cameroon,2,3274
+Addis Ababa,39.332,9.629,Ethiopia,Cairo,31.675,30.203,Egypt,2,2421
+Addis Ababa,39.332,9.629,Ethiopia,Bangui,18.864,4.664,Central African Republic,2,2323
+Dubai,55.607,25.421,United Arab Emirates,Tunis,10.378,37.418,Tunisia,2,4447
+Dubai,55.607,25.421,United Arab Emirates,Plaisance,58.139,-20.051,Mauritius,2,5063
+Dubai,55.607,25.421,United Arab Emirates,Johannesburg,28.41,-25.566,South Africa,2,6377
+Dubai,55.607,25.421,United Arab Emirates,Durban,31.584,-29.951,South Africa,2,6668
+Dubai,55.607,25.421,United Arab Emirates,Cape Town,19.002,-33.942,South Africa,2,7648
+Dammam,50.329,26.785,Saudi Arabia,Alexandria,30.16,31.529,Egypt,2,2024
+Abu Dhabi,55.085,24.721,United Arab Emirates,Alexandria,30.16,31.529,Egypt,2,2552
+Amman,36.655,32.204,Jordan,Alexandria,30.16,31.529,Egypt,2,617
+Windhoek,17.77,-22.145,Namibia,Luanda,13.385,-8.764,Angola,2,1559
+Nairobi,37.545,-0.866,Kenya,Luanda,13.385,-8.764,Angola,2,2815
+Maputo,32.954,-25.869,Mozambique,Luanda,13.385,-8.764,Angola,2,2808
+Madrid,-3.278,40.822,Spain,Luanda,13.385,-8.764,Angola,2,5772
+Lisbon,-8.56,39.302,Portugal,Luanda,13.385,-8.764,Angola,2,5804
+Luanda,13.385,-8.764,Angola,Windhoek,17.77,-22.145,Namibia,2,1559
+Luanda,13.385,-8.764,Angola,Nairobi,37.545,-0.866,Kenya,2,2815
+Luanda,13.385,-8.764,Angola,Maputo,32.954,-25.869,Mozambique,2,2808
+Luanda,13.385,-8.764,Angola,Johannesburg,28.41,-25.566,South Africa,2,2452
+Johannesburg,28.41,-25.566,South Africa,Luanda,13.385,-8.764,Angola,2,2452
+Frankfurt,8.905,50.044,Germany,Luanda,13.385,-8.764,Angola,2,6553
+"Praia,Santiago Island",-23.156,15.54,Cape Verde,Dakar,-17.151,15.232,Senegal,2,644
+Nouakschott,-15.914,18.163,Mauritania,Dakar,-17.151,15.232,Senegal,2,351
+Dakar,-17.151,15.232,Senegal,"Praia,Santiago Island",-23.156,15.54,Cape Verde,2,644
+Dakar,-17.151,15.232,Senegal,Nouakschott,-15.914,18.163,Mauritania,2,351
+Dakar,-17.151,15.232,Senegal,Conakry,-13.354,9.961,Guinea,2,716
+Dakar,-17.151,15.232,Senegal,Abidjan,-3.878,5.435,Cote d'Ivoire,2,1813
+Conakry,-13.354,9.961,Guinea,Dakar,-17.151,15.232,Senegal,2,716
+Abidjan,-3.878,5.435,Cote d'Ivoire,Dakar,-17.151,15.232,Senegal,2,1813
+New York,-73.632,41.066,United States,Accra,0.388,6.008,Ghana,2,8231
+Atlanta,-84.047,34.061,United States,Lagos,3.535,6.962,Nigeria,2,9352
+Amsterdam,5.273,52.514,Netherlands,Kigali,30.232,-1.948,Rwanda,2,6490
+Amsterdam,5.273,52.514,Netherlands,Abuja,7.438,9.011,Nigeria,2,4841
+Berlin,13.479,52.932,Germany,Agadir,-9.244,30.635,Morocco,2,3085
+Frankfurt,8.905,50.044,Germany,Plaisance,58.139,-20.051,Mauritius,2,9169
+Duesseldorf,7.277,51.482,Germany,Agadir,-9.244,30.635,Morocco,2,2686
+St.-denis,55.85,-20.812,Reunion,Johannesburg,28.41,-25.566,South Africa,2,2848
+Johannesburg,28.41,-25.566,South Africa,St.-denis,55.85,-20.812,Reunion,2,2848
+Cotonou,2.64,6.595,Benin,Bamako,-7.917,12.889,Mali,2,1351
+Brazzaville,15.421,-3.753,Congo (Kinshasa),Cotonou,2.64,6.595,Benin,2,1826
+Bamako,-7.917,12.889,Mali,Cotonou,2.64,6.595,Benin,2,1351
+Hong Kong,114.524,22.514,Hong Kong,Johannesburg,28.41,-25.566,South Africa,2,10701
+Washington,-77.094,39.574,United States,Accra,0.388,6.008,Ghana,2,8510
+Beijing,116.974,40.133,China,Cairo,31.675,30.203,Egypt,2,7535
+Guangzhou,113.497,23.654,China,Cairo,31.675,30.203,Egypt,2,7969
+Bangkok,101.245,14.135,Thailand,Addis Ababa,39.332,9.629,Ethiopia,2,6737
+Nairobi,37.545,-0.866,Kenya,Gaberone,26.53,-24.259,Botswana,2,2858
+Johannesburg,28.41,-25.566,South Africa,Gaberone,26.53,-24.259,Botswana,2,238
+Gaberone,26.53,-24.259,Botswana,Nairobi,37.545,-0.866,Kenya,2,2858
+Gaberone,26.53,-24.259,Botswana,Johannesburg,28.41,-25.566,South Africa,2,238
+Bahrain,51.056,26.451,Bahrain,Khartoum,32.921,15.982,Sudan,2,2206
+London,-0.103,51.795,United Kingdom,Addis Ababa,39.332,9.629,Ethiopia,2,5888
+Alexandria,30.16,31.529,Egypt,Cairo,31.675,30.203,Egypt,2,206
+Cairo,31.675,30.203,Egypt,Alexandria,30.16,31.529,Egypt,2,206
+Beirut,35.813,34.368,Lebanon,Addis Ababa,39.332,9.629,Ethiopia,2,2774
+Victoria Falls,26.398,-17.494,Zimbabwe,Johannesburg,28.41,-25.566,South Africa,2,921
+Mpumalanga,31.176,-24.972,South Africa,Johannesburg,28.41,-25.566,South Africa,2,285
+London,-0.103,51.795,United Kingdom,Luanda,13.385,-8.764,Angola,2,6856
+London,-0.103,51.795,United Kingdom,Accra,0.388,6.008,Ghana,2,5091
+London,-0.103,51.795,United Kingdom,Abuja,7.438,9.011,Nigeria,2,4806
+London,-0.103,51.795,United Kingdom,Tunis,10.378,37.418,Tunisia,2,1796
+London,-0.103,51.795,United Kingdom,Plaisance,58.139,-20.051,Mauritius,2,9775
+Johannesburg,28.41,-25.566,South Africa,Victoria Falls,26.398,-17.494,Zimbabwe,2,921
+Rome,12.417,42.34,Italy,Tunis,10.378,37.418,Tunisia,2,574
+Rome,12.417,42.34,Italy,Nairobi,37.545,-0.866,Kenya,2,5424
+Rome,12.417,42.34,Italy,Cairo,31.675,30.203,Egypt,2,2182
+Amsterdam,5.273,52.514,Netherlands,Cape Town,19.002,-33.942,South Africa,2,9705
+Tamale,-0.773,9.928,Ghana,Accra,0.388,6.008,Ghana,2,454
+Takoradi,-1.625,5.493,Ghana,Accra,0.388,6.008,Ghana,2,229
+Accra,0.388,6.008,Ghana,Tamale,-0.773,9.928,Ghana,2,454
+Accra,0.388,6.008,Ghana,Takoradi,-1.625,5.493,Ghana,2,229
+Valencia,-0.137,39.815,Spain,Casablanca,-7.317,33.612,Morocco,2,940
+Malabo,9.181,4.258,Equatorial Guinea,Libreville,9.687,0.764,Gabon,2,392
+Malabo,9.181,4.258,Equatorial Guinea,Bata,10.342,2.509,Equatorial Guinea,2,233
+Monrovia,-9.938,6.389,Liberia,Freetown,-12.66,9.027,Sierra Leone,2,419
+Bissau,-15.423,12.491,Guinea-Bissau,Banjul,-16.421,13.563,Gambia,2,160
+Paris,2.916,49.021,France,Tanger,-5.862,36.211,Morocco,2,1592
+Paris,2.916,49.021,France,Fez,-4.964,34.545,Morocco,2,1734
+Nantes,-1.352,47.255,France,Marrakech,-7.394,32.011,Morocco,2,1770
+Nouakschott,-15.914,18.163,Mauritania,Casablanca,-7.317,33.612,Morocco,2,1919
+Madrid,-3.278,40.822,Spain,Tanger,-5.862,36.211,Morocco,2,559
+Madrid,-3.278,40.822,Spain,Rabat,-6.586,34.085,Morocco,2,803
+Madrid,-3.278,40.822,Spain,Marrakech,-7.394,32.011,Morocco,2,1046
+Madrid,-3.278,40.822,Spain,Casablanca,-7.317,33.612,Morocco,2,877
+Lisbon,-8.56,39.302,Portugal,Casablanca,-7.317,33.612,Morocco,2,642
+London,-0.103,51.795,United Kingdom,Casablanca,-7.317,33.612,Morocco,2,2103
+Lome,1.424,6.276,Togo,Cotonou,2.64,6.595,Benin,2,138
+Lome,1.424,6.276,Togo,Accra,0.388,6.008,Ghana,2,118
+Libreville,9.687,0.764,Gabon,Malabo,9.181,4.258,Equatorial Guinea,2,392
+New York,-73.632,41.066,United States,Casablanca,-7.317,33.612,Morocco,2,5780
+Jeddah,39.26,22.132,Saudi Arabia,Casablanca,-7.317,33.612,Morocco,2,4711
+Frankfurt,8.905,50.044,Germany,Casablanca,-7.317,33.612,Morocco,2,2257
+Freetown,-12.66,9.027,Sierra Leone,Monrovia,-9.938,6.389,Liberia,2,419
+Rome,12.417,42.34,Italy,Casablanca,-7.317,33.612,Morocco,2,1976
+Cotonou,2.64,6.595,Benin,Lome,1.424,6.276,Togo,2,138
+Casablanca,-7.317,33.612,Morocco,Bissau,-15.423,12.491,Guinea-Bissau,2,2488
+Casablanca,-7.317,33.612,Morocco,Nouakschott,-15.914,18.163,Mauritania,2,1919
+Casablanca,-7.317,33.612,Morocco,Cairo,31.675,30.203,Egypt,2,3678
+Cairo,31.675,30.203,Egypt,Casablanca,-7.317,33.612,Morocco,2,3678
+Bata,10.342,2.509,Equatorial Guinea,Malabo,9.181,4.258,Equatorial Guinea,2,233
+Brussels,4.807,51.502,Belgium,Agadir,-9.244,30.635,Morocco,2,2591
+Abu Dhabi,55.085,24.721,United Arab Emirates,Casablanca,-7.317,33.612,Morocco,2,6050
+Malaga,-4.166,37.124,Spain,Casablanca,-7.317,33.612,Morocco,2,483
+Madras,80.3,13.657,India,Plaisance,58.139,-20.051,Mauritius,2,4463
+Delhi,77.171,28.944,India,Plaisance,58.139,-20.051,Mauritius,2,5818
+Bombay,73.446,19.147,India,Plaisance,58.139,-20.051,Mauritius,2,4666
+Bombay,73.446,19.147,India,Addis Ababa,39.332,9.629,Ethiopia,2,3815
+Toulouse,1.606,44.048,France,Oran,-0.369,36.039,Algeria,2,906
+Toulouse,1.606,44.048,France,Algier,3.359,37.151,Algeria,2,781
+Paris,2.916,49.021,France,Tlemcen,-1.084,35.027,Algeria,2,1590
+Paris,2.916,49.021,France,Setif,5.54,36.296,Algeria,2,1430
+Paris,2.916,49.021,France,Constantine,7.033,36.46,Algeria,2,1436
+Paris,2.916,49.021,France,Biskra,6.23,35.322,Algeria,2,1547
+Paris,2.916,49.021,France,Batna,6.514,36.253,Algeria,2,1449
+Paris,2.916,49.021,France,Bejaja,5.116,37.186,Algeria,2,1327
+Marseille,5.356,43.725,France,Tlemcen,-1.084,35.027,Algeria,2,1113
+Marseille,5.356,43.725,France,Setif,5.54,36.296,Algeria,2,826
+Marseille,5.356,43.725,France,Oran,-0.369,36.039,Algeria,2,983
+Marseille,5.356,43.725,France,Constantine,7.033,36.46,Algeria,2,820
+Marseille,5.356,43.725,France,Bejaja,5.116,37.186,Algeria,2,727
+Marseille,5.356,43.725,France,Annaba,8.348,37.37,Algeria,2,750
+Mulhouse,7.883,47.982,France,Constantine,7.033,36.46,Algeria,2,1283
+Madrid,-3.278,40.822,Spain,Algier,3.359,37.151,Algeria,2,703
+Lyon,5.151,46.21,France,Setif,5.54,36.296,Algeria,2,1102
+Lyon,5.151,46.21,France,Oran,-0.369,36.039,Algeria,2,1221
+Lyon,5.151,46.21,France,Constantine,7.033,36.46,Algeria,2,1095
+Lyon,5.151,46.21,France,Algier,3.359,37.151,Algeria,2,1018
+Lille,3.149,50.936,France,Oran,-0.369,36.039,Algeria,2,1680
+Lille,3.149,50.936,France,Algier,3.359,37.151,Algeria,2,1532
+London,-0.103,51.795,United Kingdom,Algier,3.359,37.151,Algeria,2,1650
+Istanbul,29.357,41.628,Turkey,Algier,3.359,37.151,Algeria,2,2279
+Frankfurt,8.905,50.044,Germany,Algier,3.359,37.151,Algeria,2,1500
+Rome,12.417,42.34,Italy,Algier,3.359,37.151,Algeria,2,964
+Damascus,36.857,33.684,Syria,Algier,3.359,37.151,Algeria,2,3044
+Casablanca,-7.317,33.612,Morocco,Algier,3.359,37.151,Algeria,2,1044
+Cairo,31.675,30.203,Egypt,Algier,3.359,37.151,Algeria,2,2720
+Barcelona,2.13,41.495,Spain,Algier,3.359,37.151,Algeria,2,494
+Algier,3.359,37.151,Algeria,Casablanca,-7.317,33.612,Morocco,2,1044
+Algier,3.359,37.151,Algeria,Cairo,31.675,30.203,Egypt,2,2720
+Nice,7.359,44.097,France,Tunis,10.378,37.418,Tunisia,2,784
+Marseille,5.356,43.725,France,Tunis,10.378,37.418,Tunisia,2,819
+Lyon,5.151,46.21,France,Tunis,10.378,37.418,Tunisia,2,1068
+Moroni,43.453,-11.223,Comoros,Nairobi,37.545,-0.866,Kenya,2,1323
+Paris,2.916,49.021,France,Antananarivo,47.798,-18.662,Madagascar,2,8733
+Paris,2.916,49.021,France,Yaounde,11.922,4.204,Cameroon,2,5055
+Paris,2.916,49.021,France,Nairobi,37.545,-0.866,Kenya,2,6462
+Paris,2.916,49.021,France,Luanda,13.385,-8.764,Angola,2,6506
+Paris,2.916,49.021,France,Johannesburg,28.41,-25.566,South Africa,2,8671
+Paris,2.916,49.021,France,Douala,10.199,4.01,Cameroon,2,5052
+Paris,2.916,49.021,France,Bamako,-7.917,12.889,Mali,2,4139
+Paris,2.916,49.021,France,Abidjan,-3.878,5.435,Cote d'Ivoire,2,4888
+Stuttgart,9.369,49.149,Germany,Marsa Alam,34.972,25.928,Egypt,2,3396
+Munich,12.31,48.589,Germany,Djerba,11.292,34.458,Tunisia,2,1573
+Hamburg,10.647,54.05,Germany,Hurghada,34.332,27.297,Egypt,2,3546
+Hannover,10.141,52.768,Germany,Hurghada,34.332,27.297,Egypt,2,3466
+Duesseldorf,7.277,51.482,Germany,Hurghada,34.332,27.297,Egypt,2,3514
+Duesseldorf,7.277,51.482,Germany,Djerba,11.292,34.458,Tunisia,2,1920
+Bombay,73.446,19.147,India,Nairobi,37.545,-0.866,Kenya,2,4505
+Khartoum,32.921,15.982,Sudan,N'djamena,15.056,12.222,Chad,2,1970
+Toulouse,1.606,44.048,France,Marrakech,-7.394,32.011,Morocco,2,1551
+Toulouse,1.606,44.048,France,Casablanca,-7.317,33.612,Morocco,2,1392
+Marseille,5.356,43.725,France,Marrakech,-7.394,32.011,Morocco,2,1713
+Lyon,5.151,46.21,France,Agadir,-9.244,30.635,Morocco,2,2130
+Bordeaux,-0.526,45.38,France,Marrakech,-7.394,32.011,Morocco,2,1600
+Bordeaux,-0.526,45.38,France,Casablanca,-7.317,33.612,Morocco,2,1431
+Bologna,11.481,44.892,Italy,Casablanca,-7.317,33.612,Morocco,2,2039
+Lisbon,-8.56,39.302,Portugal,Sao Tome,7.186,0.63,Sao Tome and Principe,2,4588
+Sao Vicente Island,-24.425,17.389,Cape Verde,Amilcar Cabral,-22.916,17.235,Cape Verde,2,161
+Sao Vicente Island,-24.425,17.389,Cape Verde,"Praia,Santiago Island",-23.156,15.54,Cape Verde,2,246
+Amilcar Cabral,-22.916,17.235,Cape Verde,Sao Vicente Island,-24.425,17.389,Cape Verde,2,161
+Amilcar Cabral,-22.916,17.235,Cape Verde,"Praia,Santiago Island",-23.156,15.54,Cape Verde,2,190
+Amilcar Cabral,-22.916,17.235,Cape Verde,Boa Vista,-22.815,16.227,Cape Verde,2,112
+"Sao Filipe,Fogo Island",-24.134,15.475,Cape Verde,"Praia,Santiago Island",-23.156,15.54,Cape Verde,2,105
+"Praia,Santiago Island",-23.156,15.54,Cape Verde,Sao Vicente Island,-24.425,17.389,Cape Verde,2,246
+"Praia,Santiago Island",-23.156,15.54,Cape Verde,Amilcar Cabral,-22.916,17.235,Cape Verde,2,190
+"Praia,Santiago Island",-23.156,15.54,Cape Verde,"Sao Filipe,Fogo Island",-24.134,15.475,Cape Verde,2,105
+"Praia,Santiago Island",-23.156,15.54,Cape Verde,Boa Vista,-22.815,16.227,Cape Verde,2,84
+Boa Vista,-22.815,16.227,Cape Verde,"Praia,Santiago Island",-23.156,15.54,Cape Verde,2,84
+Vilankulu,35.522,-21.365,Mozambique,Johannesburg,28.41,-25.566,South Africa,2,862
+Johannesburg,28.41,-25.566,South Africa,Vilankulu,35.522,-21.365,Mozambique,2,862
+Mogadishu,45.507,2.024,Somalia,Berbera,45.568,10.648,Somalia,2,958
+Dubai,55.607,25.421,United Arab Emirates,Berbera,45.568,10.648,Somalia,2,1953
+Bosaso,49.249,11.458,Somalia,Galcaio,47.757,7.301,Somalia,2,490
+Berbera,45.568,10.648,Somalia,Bosaso,49.249,11.458,Somalia,2,411
+Nairobi,37.545,-0.866,Kenya,Nanyuki,37.055,0.555,Kenya,2,167
+Nairobi,37.545,-0.866,Kenya,Masai Mara,35.013,-1.011,Kenya,2,281
+Ukunda,39.952,-3.829,Kenya,Nairobi,37.545,-0.866,Kenya,2,424
+Nanyuki,37.055,0.555,Kenya,Masai Mara,35.013,-1.011,Kenya,2,286
+Nairobi,37.545,-0.866,Kenya,Malindi,40.169,-2.716,Kenya,2,356
+Nairobi,37.545,-0.866,Kenya,Eldoret,35.398,0.674,Kenya,2,293
+Mtwara,40.302,-9.899,Tanzania,Dar Es Salaam,39.337,-6.797,Tanzania,2,360
+Mwanza,33.554,-2.075,Tanzania,Dar Es Salaam,39.337,-6.797,Tanzania,2,828
+Masai Mara,35.013,-1.011,Kenya,Nairobi,37.545,-0.866,Kenya,2,281
+Eldoret,35.398,0.674,Kenya,Nairobi,37.545,-0.866,Kenya,2,293
+Dar Es Salaam,39.337,-6.797,Tanzania,Mtwara,40.302,-9.899,Tanzania,2,360
+Dar Es Salaam,39.337,-6.797,Tanzania,Mwanza,33.554,-2.075,Tanzania,2,828
+Zurich,8.915,47.774,Switzerland,Hurghada,34.332,27.297,Egypt,2,3166
+Brussels,4.807,51.502,Belgium,Tanger,-5.862,36.211,Morocco,2,1898
+Amsterdam,5.273,52.514,Netherlands,Tanger,-5.862,36.211,Morocco,2,2011
+Ouagadougou,-1.188,12.588,Burkina Faso,Lome,1.424,6.276,Togo,2,758
+Lome,1.424,6.276,Togo,Ouagadougou,-1.188,12.588,Burkina Faso,2,758
+Mulhouse,7.883,47.982,France,Setif,5.54,36.296,Algeria,1,1313
+Mulhouse,7.883,47.982,France,Oran,-0.369,36.039,Algeria,1,1490
+Mulhouse,7.883,47.982,France,Algier,3.359,37.151,Algeria,1,1259
+Paris,2.916,49.021,France,Hassi-messaoud,6.234,32.121,Algeria,1,1899
+Riyadh,47.164,25.596,Saudi Arabia,Sohag,32.238,26.568,Egypt,1,1493
+Riyadh,47.164,25.596,Saudi Arabia,Asyut,31.019,27.077,Egypt,1,1616
+Jeddah,39.26,22.132,Saudi Arabia,Sohag,32.238,26.568,Egypt,1,865
+Jeddah,39.26,22.132,Saudi Arabia,Asyut,31.019,27.077,Egypt,1,997
+Wajir,40.152,2.222,Kenya,Nairobi,37.545,-0.866,Kenya,1,449
+Mukalla,49.625,15.104,Yemen,Bosaso,49.249,11.458,Somalia,1,407
+Mukalla,49.625,15.104,Yemen,Berbera,45.568,10.648,Somalia,1,662
+Nairobi,37.545,-0.866,Kenya,Mogadishu,45.507,2.024,Somalia,1,941
+Nairobi,37.545,-0.866,Kenya,Galcaio,47.757,7.301,Somalia,1,1451
+Mogadishu,45.507,2.024,Somalia,Wajir,40.152,2.222,Kenya,1,595
+Galcaio,47.757,7.301,Somalia,Wajir,40.152,2.222,Kenya,1,1014
+Galcaio,47.757,7.301,Somalia,Mogadishu,45.507,2.024,Somalia,1,637
+Berbera,45.568,10.648,Somalia,Mogadishu,45.507,2.024,Somalia,1,958
+Aden,45.047,13.382,Yemen,Mogadishu,45.507,2.024,Somalia,1,1263
+Aden,45.047,13.382,Yemen,Berbera,45.568,10.648,Somalia,1,309
+Gran Canaria,-14.978,28.553,Spain,Amilcar Cabral,-22.916,17.235,Cape Verde,1,1497
+Gran Canaria,-14.978,28.553,Spain,Boa Vista,-22.815,16.227,Cape Verde,1,1588
+Gran Canaria,-14.978,28.553,Spain,Agadir,-9.244,30.635,Morocco,1,600
+Hamburg,10.647,54.05,Germany,Boa Vista,-22.815,16.227,Cape Verde,1,5098
+Frankfurt,8.905,50.044,Germany,Luxor,33.177,26.118,Egypt,1,3372
+Muscat,58.474,23.988,Oman,Zanzibar,39.374,-5.704,Tanzania,1,3897
+Muscat,58.474,23.988,Oman,Dar Es Salaam,39.337,-6.797,Tanzania,1,4003
+Mombasa,39.99,-3.392,Kenya,Kigali,30.232,-1.948,Rwanda,1,1095
+Lagos,3.535,6.962,Nigeria,Kigali,30.232,-1.948,Rwanda,1,3123
+Kamembe,29.513,-2.104,Rwanda,Kigali,30.232,-1.948,Rwanda,1,81
+Kigali,30.232,-1.948,Rwanda,Mombasa,39.99,-3.392,Kenya,1,1095
+Kigali,30.232,-1.948,Rwanda,Lagos,3.535,6.962,Nigeria,1,3123
+Kigali,30.232,-1.948,Rwanda,Kamembe,29.513,-2.104,Rwanda,1,81
+Kigali,30.232,-1.948,Rwanda,Kilimanjaro,37.124,-3.05,Tanzania,1,775
+Kigali,30.232,-1.948,Rwanda,Johannesburg,28.41,-25.566,South Africa,1,2633
+Kigali,30.232,-1.948,Rwanda,Gisenyi,29.431,-1.463,Rwanda,1,104
+Kigali,30.232,-1.948,Rwanda,Dar Es Salaam,39.337,-6.797,Tanzania,1,1144
+Kilimanjaro,37.124,-3.05,Tanzania,Kigali,30.232,-1.948,Rwanda,1,775
+Johannesburg,28.41,-25.566,South Africa,Kigali,30.232,-1.948,Rwanda,1,2633
+Gisenyi,29.431,-1.463,Rwanda,Kamembe,29.513,-2.104,Rwanda,1,71
+Gisenyi,29.431,-1.463,Rwanda,Kigali,30.232,-1.948,Rwanda,1,104
+Dubai,55.607,25.421,United Arab Emirates,Mombasa,39.99,-3.392,Kenya,1,3619
+Dubai,55.607,25.421,United Arab Emirates,Kigali,30.232,-1.948,Rwanda,1,4089
+Dar Es Salaam,39.337,-6.797,Tanzania,Kigali,30.232,-1.948,Rwanda,1,1144
+Brazzaville,15.421,-3.753,Congo (Kinshasa),Kigali,30.232,-1.948,Rwanda,1,1656
+Yola,12.717,9.429,Nigeria,Abuja,7.438,9.011,Nigeria,1,581
+Osubi,5.75,5.516,Nigeria,Lagos,3.535,6.962,Nigeria,1,292
+Osubi,5.75,5.516,Nigeria,Abuja,7.438,9.011,Nigeria,1,430
+Maiduguri,13.134,12.425,Nigeria,Abuja,7.438,9.011,Nigeria,1,728
+Lagos,3.535,6.962,Nigeria,Osubi,5.75,5.516,Nigeria,1,292
+Lagos,3.535,6.962,Nigeria,Luanda,13.385,-8.764,Angola,1,2061
+Lagos,3.535,6.962,Nigeria,Kano,8.874,12.079,Nigeria,1,816
+Lagos,3.535,6.962,Nigeria,Kaduna,7.533,11.16,Nigeria,1,640
+Lagos,3.535,6.962,Nigeria,Jos,9.448,10.066,Nigeria,1,736
+Lagos,3.535,6.962,Nigeria,Freetown,-12.66,9.027,Sierra Leone,1,1797
+Lagos,3.535,6.962,Nigeria,Dakar,-17.151,15.232,Senegal,1,2434
+Lagos,3.535,6.962,Nigeria,Calabar,8.578,5.626,Nigeria,1,576
+Lagos,3.535,6.962,Nigeria,Benin,5.999,6.528,Nigeria,1,276
+Luanda,13.385,-8.764,Angola,Lagos,3.535,6.962,Nigeria,1,2061
+Kano,8.874,12.079,Nigeria,Lagos,3.535,6.962,Nigeria,1,816
+Kaduna,7.533,11.16,Nigeria,Lagos,3.535,6.962,Nigeria,1,640
+Jos,9.448,10.066,Nigeria,Lagos,3.535,6.962,Nigeria,1,736
+New York,-73.632,41.066,United States,Lagos,3.535,6.962,Nigeria,1,8425
+Ilorin,4.823,8.733,Nigeria,Abuja,7.438,9.011,Nigeria,1,288
+Ibadan,4.63,7.604,Nigeria,Abuja,7.438,9.011,Nigeria,1,346
+Freetown,-12.66,9.027,Sierra Leone,Lagos,3.535,6.962,Nigeria,1,1797
+Dakar,-17.151,15.232,Senegal,Lagos,3.535,6.962,Nigeria,1,2434
+Calabar,8.578,5.626,Nigeria,Lagos,3.535,6.962,Nigeria,1,576
+Calabar,8.578,5.626,Nigeria,Abuja,7.438,9.011,Nigeria,1,396
+Benin,5.999,6.528,Nigeria,Lagos,3.535,6.962,Nigeria,1,276
+Benin,5.999,6.528,Nigeria,Abuja,7.438,9.011,Nigeria,1,318
+Abuja,7.438,9.011,Nigeria,Yola,12.717,9.429,Nigeria,1,581
+Abuja,7.438,9.011,Nigeria,Osubi,5.75,5.516,Nigeria,1,430
+Abuja,7.438,9.011,Nigeria,Maiduguri,13.134,12.425,Nigeria,1,728
+Abuja,7.438,9.011,Nigeria,Ilorin,4.823,8.733,Nigeria,1,288
+Abuja,7.438,9.011,Nigeria,Ibadan,4.63,7.604,Nigeria,1,346
+Abuja,7.438,9.011,Nigeria,Calabar,8.578,5.626,Nigeria,1,396
+Abuja,7.438,9.011,Nigeria,Benin,5.999,6.528,Nigeria,1,318
+Sao Vicente Island,-24.425,17.389,Cape Verde,Sao Nocolau Island,-23.808,16.98,Cape Verde,1,79
+Sao Nocolau Island,-23.808,16.98,Cape Verde,Sao Vicente Island,-24.425,17.389,Cape Verde,1,79
+Sao Nocolau Island,-23.808,16.98,Cape Verde,Amilcar Cabral,-22.916,17.235,Cape Verde,1,98
+Amilcar Cabral,-22.916,17.235,Cape Verde,Sao Nocolau Island,-23.808,16.98,Cape Verde,1,98
+"Praia,Santiago Island",-23.156,15.54,Cape Verde,Maio,-22.69,15.259,Cape Verde,1,58
+Maio,-22.69,15.259,Cape Verde,"Praia,Santiago Island",-23.156,15.54,Cape Verde,1,58
+Madrid,-3.278,40.822,Spain,Amilcar Cabral,-22.916,17.235,Cape Verde,1,3227
+Gran Canaria,-14.978,28.553,Spain,"Praia,Santiago Island",-23.156,15.54,Cape Verde,1,1673
+Lisbon,-8.56,39.302,Portugal,Boa Vista,-22.815,16.227,Cape Verde,1,2915
+Fortaleza,-38.221,-3.628,Brazil,"Praia,Santiago Island",-23.156,15.54,Cape Verde,1,2700
+Paris,2.916,49.021,France,Sao Vicente Island,-24.425,17.389,Cape Verde,1,4292
+Paris,2.916,49.021,France,"Praia,Santiago Island",-23.156,15.54,Cape Verde,1,4410
+Boston,-70.342,42.607,United States,"Praia,Santiago Island",-23.156,15.54,Cape Verde,1,5387
+Amsterdam,5.273,52.514,Netherlands,Sao Vicente Island,-24.425,17.389,Cape Verde,1,4684
+Sao Tome,7.186,0.63,Sao Tome and Principe,Libreville,9.687,0.764,Gabon,1,278
+Sao Tome,7.186,0.63,Sao Tome and Principe,Douala,10.199,4.01,Cameroon,1,503
+Libreville,9.687,0.764,Gabon,Sao Tome,7.186,0.63,Sao Tome and Principe,1,278
+Douala,10.199,4.01,Cameroon,Sao Tome,7.186,0.63,Sao Tome and Principe,1,503
+Dakar,-17.151,15.232,Senegal,Cotonou,2.64,6.595,Benin,1,2362
+Cotonou,2.64,6.595,Benin,Dakar,-17.151,15.232,Senegal,1,2362
+Banjul,-16.421,13.563,Gambia,Accra,0.388,6.008,Ghana,1,2022
+Accra,0.388,6.008,Ghana,Banjul,-16.421,13.563,Gambia,1,2022
+Sydney,151.295,-33.911,Australia,St.-denis,55.85,-20.812,Reunion,1,9211
+Mahe,55.869,-4.458,Seychelles,St.-denis,55.85,-20.812,Reunion,1,1818
+St.-denis,55.85,-20.812,Reunion,Mahe,55.869,-4.458,Seychelles,1,1818
+St.-denis,55.85,-20.812,Reunion,Nosy-be,48.524,-12.854,Madagascar,1,1178
+St.-denis,55.85,-20.812,Reunion,Moroni,43.453,-11.223,Comoros,1,1699
+St.-denis,55.85,-20.812,Reunion,Dzaoudzi,45.468,-12.675,Mayotte,1,1427
+Nosy-be,48.524,-12.854,Madagascar,St.-denis,55.85,-20.812,Reunion,1,1178
+Nosy-be,48.524,-12.854,Madagascar,Dzaoudzi,45.468,-12.675,Mayotte,1,332
+Marseille,5.356,43.725,France,St.-denis,55.85,-20.812,Reunion,1,8827
+Lyon,5.151,46.21,France,St.-denis,55.85,-20.812,Reunion,1,9027
+Moroni,43.453,-11.223,Comoros,St.-denis,55.85,-20.812,Reunion,1,1699
+Dzaoudzi,45.468,-12.675,Mayotte,St.-denis,55.85,-20.812,Reunion,1,1427
+Dzaoudzi,45.468,-12.675,Mayotte,Nosy-be,48.524,-12.854,Madagascar,1,332
+Bordeaux,-0.526,45.38,France,St.-denis,55.85,-20.812,Reunion,1,9301
+Bangkok,101.245,14.135,Thailand,St.-denis,55.85,-20.812,Reunion,1,6299
+Sverdlovsk,61.337,57.238,Russia,Sharm El Sheikh,34.658,28.628,Egypt,1,3800
+Sverdlovsk,61.337,57.238,Russia,Hurghada,34.332,27.297,Egypt,1,3947
+Moscow,38.51,55.681,Russia,Sharm El Sheikh,34.658,28.628,Egypt,1,3023
+Moscow,38.51,55.681,Russia,Mahe,55.869,-4.458,Seychelles,1,6873
+Moscow,38.51,55.681,Russia,Enfidha,10.731,36.126,Tunisia,1,3018
+Moscow,38.51,55.681,Russia,Plaisance,58.139,-20.051,Mauritius,1,8622
+Victoria Falls,26.398,-17.494,Zimbabwe,Harare,31.154,-17.887,Zimbabwe,1,505
+London,-0.103,51.795,United Kingdom,Harare,31.154,-17.887,Zimbabwe,1,8319
+Kuala Lumpur,102.183,3.242,Malaysia,Harare,31.154,-17.887,Zimbabwe,1,8122
+Harare,31.154,-17.887,Zimbabwe,Victoria Falls,26.398,-17.494,Zimbabwe,1,505
+Harare,31.154,-17.887,Zimbabwe,Bulawayo,29.029,-19.363,Zimbabwe,1,277
+Lubumashi,27.884,-11.319,Congo (Kinshasa),Lusaka,28.754,-14.885,Zambia,1,407
+Lubumashi,27.884,-11.319,Congo (Kinshasa),Harare,31.154,-17.887,Zimbabwe,1,810
+Bulawayo,29.029,-19.363,Zimbabwe,Harare,31.154,-17.887,Zimbabwe,1,277
+Yenbo,38.105,24.24,Saudi Arabia,Cairo,31.675,30.203,Egypt,1,918
+Taif,40.907,21.805,Saudi Arabia,Cairo,31.675,30.203,Egypt,1,1311
+Gassim,44.289,26.504,Saudi Arabia,Cairo,31.675,30.203,Egypt,1,1300
+Tunis,10.378,37.418,Tunisia,Tozeur,8.184,34.566,Tunisia,1,373
+Tunis,10.378,37.418,Tunisia,Sfax,11.151,35.196,Tunisia,1,256
+Tunis,10.378,37.418,Tunisia,Gafsa,9.37,34.703,Tunisia,1,315
+Tunis,10.378,37.418,Tunisia,Djerba,11.292,34.458,Tunisia,1,339
+Tozeur,8.184,34.566,Tunisia,Tunis,10.378,37.418,Tunisia,1,373
+Sfax,11.151,35.196,Tunisia,Tunis,10.378,37.418,Tunisia,1,256
+Sfax,11.151,35.196,Tunisia,Djerba,11.292,34.458,Tunisia,1,83
+Naples,14.484,41.476,Italy,Tunis,10.378,37.418,Tunisia,1,572
+Malta,14.795,36.429,Malta,Tunis,10.378,37.418,Tunisia,1,407
+Gafsa,9.37,34.703,Tunisia,Tozeur,8.184,34.566,Tunisia,1,109
+Gafsa,9.37,34.703,Tunisia,Gabes,10.172,34.461,Tunisia,1,78
+Gabes,10.172,34.461,Tunisia,Tunis,10.378,37.418,Tunisia,1,329
+Djerba,11.292,34.458,Tunisia,Tunis,10.378,37.418,Tunisia,1,339
+Djerba,11.292,34.458,Tunisia,Sfax,11.151,35.196,Tunisia,1,83
+Juba,32.001,5.453,South Sudan,Entebbe,32.739,0.07,Uganda,1,604
+Entebbe,32.739,0.07,Uganda,Dar Es Salaam,39.337,-6.797,Tanzania,1,1057
+Dar Es Salaam,39.337,-6.797,Tanzania,Entebbe,32.739,0.07,Uganda,1,1057
+Milano,9.213,46.051,Italy,Marrakech,-7.394,32.011,Morocco,1,2111
+Zurich,8.915,47.774,Switzerland,Tunis,10.378,37.418,Tunisia,1,1157
+Zurich,8.915,47.774,Switzerland,Djerba,11.292,34.458,Tunisia,1,1493
+Vienna,16.949,48.183,Austria,Tunis,10.378,37.418,Tunisia,1,1310
+Venice,12.586,45.842,Italy,Tunis,10.378,37.418,Tunisia,1,954
+Tunis,10.378,37.418,Tunisia,Oran,-0.369,36.039,Algeria,1,969
+Tunis,10.378,37.418,Tunisia,Nouakschott,-15.914,18.163,Mauritania,1,3336
+Tunis,10.378,37.418,Tunisia,Dakar,-17.151,15.232,Senegal,1,3663
+Tunis,10.378,37.418,Tunisia,Bamako,-7.917,12.889,Mali,1,3276
+Tunis,10.378,37.418,Tunisia,Algier,3.359,37.151,Algeria,1,621
+Tunis,10.378,37.418,Tunisia,Abidjan,-3.878,5.435,Cote d'Ivoire,1,3839
+Toulouse,1.606,44.048,France,Tunis,10.378,37.418,Tunisia,1,1042
+Berlin,13.479,52.932,Germany,Enfidha,10.731,36.126,Tunisia,1,1881
+Strasbourg,8.047,48.897,France,Tunis,10.378,37.418,Tunisia,1,1290
+Strasbourg,8.047,48.897,France,Djerba,11.292,34.458,Tunisia,1,1627
+Palermo,13.151,38.293,Italy,Tunis,10.378,37.418,Tunisia,1,262
+Paris,2.916,49.021,France,Tozeur,8.184,34.566,Tunisia,1,1664
+Oran,-0.369,36.039,Algeria,Tunis,10.378,37.418,Tunisia,1,969
+Nantes,-1.352,47.255,France,Tunis,10.378,37.418,Tunisia,1,1454
+Nantes,-1.352,47.255,France,Djerba,11.292,34.458,Tunisia,1,1771
+Nouakschott,-15.914,18.163,Mauritania,Tunis,10.378,37.418,Tunisia,1,3336
+Nice,7.359,44.097,France,Tozeur,8.184,34.566,Tunisia,1,1062
+Nice,7.359,44.097,France,Monastir,11.257,36.263,Tunisia,1,931
+Nice,7.359,44.097,France,Djerba,11.292,34.458,Tunisia,1,1123
+Enfidha,10.731,36.126,Tunisia,Djerba,11.292,34.458,Tunisia,1,192
+Munich,12.31,48.589,Germany,Tunis,10.378,37.418,Tunisia,1,1251
+Munich,12.31,48.589,Germany,Enfidha,10.731,36.126,Tunisia,1,1391
+Marseille,5.356,43.725,France,Monastir,11.257,36.263,Tunisia,1,969
+Marseille,5.356,43.725,France,Djerba,11.292,34.458,Tunisia,1,1149
+Monastir,11.257,36.263,Tunisia,Djerba,11.292,34.458,Tunisia,1,200
+Manchester,-1.792,53.589,United Kingdom,Tunis,10.378,37.418,Tunisia,1,2026
+Madrid,-3.278,40.822,Spain,Tunis,10.378,37.418,Tunisia,1,1235
+Lyon,5.151,46.21,France,Tozeur,8.184,34.566,Tunisia,1,1319
+Lyon,5.151,46.21,France,Djerba,11.292,34.458,Tunisia,1,1405
+Lisbon,-8.56,39.302,Portugal,Tunis,10.378,37.418,Tunisia,1,1661
+Kuwait,48.614,29.377,Kuwait,Tunis,10.378,37.418,Tunisia,1,3633
+Hamburg,10.647,54.05,Germany,Enfidha,10.731,36.126,Tunisia,1,1993
+Hamburg,10.647,54.05,Germany,Djerba,11.292,34.458,Tunisia,1,2179
+Geneva,6.181,46.396,Switzerland,Tunis,10.378,37.418,Tunisia,1,1056
+Geneva,6.181,46.396,Switzerland,Djerba,11.292,34.458,Tunisia,1,1395
+Frankfurt,8.905,50.044,Germany,Enfidha,10.731,36.126,Tunisia,1,1554
+Frankfurt,8.905,50.044,Germany,Djerba,11.292,34.458,Tunisia,1,1743
+Duesseldorf,7.277,51.482,Germany,Tunis,10.378,37.418,Tunisia,1,1582
+Duesseldorf,7.277,51.482,Germany,Enfidha,10.731,36.126,Tunisia,1,1729
+Dakar,-17.151,15.232,Senegal,Tunis,10.378,37.418,Tunisia,1,3663
+Djerba,11.292,34.458,Tunisia,Monastir,11.257,36.263,Tunisia,1,200
+Paris,2.916,49.021,France,Sfax,11.151,35.196,Tunisia,1,1678
+Brussels,4.807,51.502,Belgium,Tunis,10.378,37.418,Tunisia,1,1626
+Brussels,4.807,51.502,Belgium,Monastir,11.257,36.263,Tunisia,1,1769
+Bordeaux,-0.526,45.38,France,Tunis,10.378,37.418,Tunisia,1,1267
+Bamako,-7.917,12.889,Mali,Tunis,10.378,37.418,Tunisia,1,3276
+Beograd,20.515,45.364,Serbia,Tunis,10.378,37.418,Tunisia,1,1221
+Barcelona,2.13,41.495,Spain,Tunis,10.378,37.418,Tunisia,1,840
+Athens,24.574,38.56,Greece,Tunis,10.378,37.418,Tunisia,1,1249
+Amsterdam,5.273,52.514,Netherlands,Tunis,10.378,37.418,Tunisia,1,1724
+Algier,3.359,37.151,Algeria,Tunis,10.378,37.418,Tunisia,1,621
+Abidjan,-3.878,5.435,Cote d'Ivoire,Tunis,10.378,37.418,Tunisia,1,3839
+Lisbon,-8.56,39.302,Portugal,Marrakech,-7.394,32.011,Morocco,1,817
+Lisbon,-8.56,39.302,Portugal,Bissau,-15.423,12.491,Guinea-Bissau,1,3056
+Lisbon,-8.56,39.302,Portugal,Dakar,-17.151,15.232,Senegal,1,2804
+Lisbon,-8.56,39.302,Portugal,Bamako,-7.917,12.889,Mali,1,2937
+Lisbon,-8.56,39.302,Portugal,Algier,3.359,37.151,Algeria,1,1067
+Lisbon,-8.56,39.302,Portugal,Accra,0.388,6.008,Ghana,1,3809
+Manchester,-1.792,53.589,United Kingdom,Amilcar Cabral,-22.916,17.235,Cape Verde,1,4435
+Manchester,-1.792,53.589,United Kingdom,Boa Vista,-22.815,16.227,Cape Verde,1,4537
+Manchester,-1.792,53.589,United Kingdom,Agadir,-9.244,30.635,Morocco,1,2621
+London,-0.103,51.795,United Kingdom,Taba,35.296,29.979,Egypt,1,3777
+London,-0.103,51.795,United Kingdom,Amilcar Cabral,-22.916,17.235,Cape Verde,1,4334
+London,-0.103,51.795,United Kingdom,Marsa Alam,34.972,25.928,Egypt,1,4112
+London,-0.103,51.795,United Kingdom,Mombasa,39.99,-3.392,Kenya,1,7205
+London,-0.103,51.795,United Kingdom,Boa Vista,-22.815,16.227,Cape Verde,1,4434
+Glasgow,-4.056,56.453,United Kingdom,Boa Vista,-22.815,16.227,Cape Verde,1,4744
+East Midlands,-0.881,53.385,United Kingdom,Boa Vista,-22.815,16.227,Cape Verde,1,4551
+Bristol,-2.532,51.637,United Kingdom,Sharm El Sheikh,34.658,28.628,Egypt,1,3996
+Birmingham,-1.581,52.756,United Kingdom,Amilcar Cabral,-22.916,17.235,Cape Verde,1,4365
+Birmingham,-1.581,52.756,United Kingdom,Enfidha,10.731,36.126,Tunisia,1,2084
+Birmingham,-1.581,52.756,United Kingdom,Boa Vista,-22.815,16.227,Cape Verde,1,4466
+Paris,2.916,49.021,France,Luxor,33.177,26.118,Egypt,1,3642
+Paris,2.916,49.021,France,Hurghada,34.332,27.297,Egypt,1,3611
+Manchester,-1.792,53.589,United Kingdom,Taba,35.296,29.979,Egypt,1,3967
+Exeter,-3.024,51.224,United Kingdom,Sharm El Sheikh,34.658,28.628,Egypt,1,4007
+"Doncaster,Sheffield",-0.341,53.791,United Kingdom,Sharm El Sheikh,34.658,28.628,Egypt,1,3977
+Djerba,11.292,34.458,Tunisia,Tozeur,8.184,34.566,Tunisia,1,285
+Cardiff,-2.906,51.661,United Kingdom,Sharm El Sheikh,34.658,28.628,Egypt,1,4020
+Bournemouth,-1.738,51.3,United Kingdom,Sharm El Sheikh,34.658,28.628,Egypt,1,3930
+Lichinga,35.443,-12.79,Mozambique,Nampula,39.469,-14.51,Mozambique,1,475
+Chimoio,33.714,-18.586,Mozambique,Maputo,32.954,-25.869,Mozambique,1,813
+Chimoio,33.714,-18.586,Mozambique,Beira,35.512,-19.661,Mozambique,1,223
+Vilankulu,35.522,-21.365,Mozambique,Maputo,32.954,-25.869,Mozambique,1,564
+Vilankulu,35.522,-21.365,Mozambique,Inhambane,35.68,-23.795,Mozambique,1,270
+Quelimane,37.448,-17.76,Mozambique,Tete,34.066,-15.509,Mozambique,1,438
+Quelimane,37.448,-17.76,Mozambique,Maputo,32.954,-25.869,Mozambique,1,1013
+Tete,34.066,-15.509,Mozambique,Quelimane,37.448,-17.76,Mozambique,1,438
+Tete,34.066,-15.509,Mozambique,Maputo,32.954,-25.869,Mozambique,1,1157
+Tete,34.066,-15.509,Mozambique,Beira,35.512,-19.661,Mozambique,1,486
+Tete,34.066,-15.509,Mozambique,Nampula,39.469,-14.51,Mozambique,1,590
+Pemba,40.87,-12.978,Mozambique,Dar Es Salaam,39.337,-6.797,Tanzania,1,707
+Pemba,40.87,-12.978,Mozambique,Nampula,39.469,-14.51,Mozambique,1,227
+Maputo,32.954,-25.869,Mozambique,Chimoio,33.714,-18.586,Mozambique,1,813
+Maputo,32.954,-25.869,Mozambique,Vilankulu,35.522,-21.365,Mozambique,1,564
+Maputo,32.954,-25.869,Mozambique,Quelimane,37.448,-17.76,Mozambique,1,1013
+Maputo,32.954,-25.869,Mozambique,Tete,34.066,-15.509,Mozambique,1,1157
+Maputo,32.954,-25.869,Mozambique,Inhambane,35.68,-23.795,Mozambique,1,358
+Maputo,32.954,-25.869,Mozambique,Beira,35.512,-19.661,Mozambique,1,738
+Maputo,32.954,-25.869,Mozambique,Nampula,39.469,-14.51,Mozambique,1,1433
+Johannesburg,28.41,-25.566,South Africa,Inhambane,35.68,-23.795,Mozambique,1,760
+Inhambane,35.68,-23.795,Mozambique,Vilankulu,35.522,-21.365,Mozambique,1,270
+Inhambane,35.68,-23.795,Mozambique,Maputo,32.954,-25.869,Mozambique,1,358
+Inhambane,35.68,-23.795,Mozambique,Johannesburg,28.41,-25.566,South Africa,1,760
+Dar Es Salaam,39.337,-6.797,Tanzania,Pemba,40.87,-12.978,Mozambique,1,707
+Beira,35.512,-19.661,Mozambique,Chimoio,33.714,-18.586,Mozambique,1,223
+Beira,35.512,-19.661,Mozambique,Tete,34.066,-15.509,Mozambique,1,486
+Beira,35.512,-19.661,Mozambique,Maputo,32.954,-25.869,Mozambique,1,738
+Beira,35.512,-19.661,Mozambique,Nampula,39.469,-14.51,Mozambique,1,710
+Nampula,39.469,-14.51,Mozambique,Lichinga,35.443,-12.79,Mozambique,1,475
+Nampula,39.469,-14.51,Mozambique,Tete,34.066,-15.509,Mozambique,1,590
+Nampula,39.469,-14.51,Mozambique,Pemba,40.87,-12.978,Mozambique,1,227
+Nampula,39.469,-14.51,Mozambique,Maputo,32.954,-25.869,Mozambique,1,1433
+Nampula,39.469,-14.51,Mozambique,Beira,35.512,-19.661,Mozambique,1,710
+Istanbul,29.357,41.628,Turkey,Tripoli,13.265,33.105,Libya,1,1704
+Istanbul,29.357,41.628,Turkey,Misratah,15.101,32.541,Libya,1,1614
+Istanbul,29.357,41.628,Turkey,Lagos,3.535,6.962,Nigeria,1,4619
+Istanbul,29.357,41.628,Turkey,Khartoum,32.921,15.982,Sudan,1,2872
+Istanbul,29.357,41.628,Turkey,Johannesburg,28.41,-25.566,South Africa,1,7472
+Istanbul,29.357,41.628,Turkey,Entebbe,32.739,0.07,Uganda,1,4633
+Istanbul,29.357,41.628,Turkey,Dar Es Salaam,39.337,-6.797,Tanzania,1,5479
+Istanbul,29.357,41.628,Turkey,Benghazi,20.449,32.161,Libya,1,1315
+Istanbul,29.357,41.628,Turkey,Accra,0.388,6.008,Ghana,1,4887
+Manchester,-1.792,53.589,United Kingdom,Banjul,-16.421,13.563,Gambia,1,4632
+London,-0.103,51.795,United Kingdom,Banjul,-16.421,13.563,Gambia,1,4494
+Birmingham,-1.581,52.756,United Kingdom,Hurghada,34.332,27.297,Egypt,1,4092
+Birmingham,-1.581,52.756,United Kingdom,Banjul,-16.421,13.563,Gambia,1,4552
+Zanzibar,39.374,-5.704,Tanzania,Johannesburg,28.41,-25.566,South Africa,1,2497
+Johannesburg,28.41,-25.566,South Africa,Zanzibar,39.374,-5.704,Tanzania,1,2497
+Walvis Bay,15.075,-22.967,Namibia,Windhoek,17.77,-22.145,Namibia,1,291
+Windhoek,17.77,-22.145,Namibia,Walvis Bay,15.075,-22.967,Namibia,1,291
+Windhoek,17.77,-22.145,Namibia,Maun,23.718,-19.955,Botswana,1,663
+Windhoek,17.77,-22.145,Namibia,Lusaka,28.754,-14.885,Zambia,1,1410
+Windhoek,17.77,-22.145,Namibia,Luderitz,15.404,-26.479,Namibia,1,538
+Windhoek,17.77,-22.145,Namibia,Accra,0.388,6.008,Ghana,1,3658
+Victoria Falls,26.398,-17.494,Zimbabwe,Windhoek,17.77,-22.145,Namibia,1,1039
+Ondangwa,16.587,-17.797,Namibia,Windhoek,17.77,-22.145,Namibia,1,499
+Oranjemund,16.744,-28.308,Namibia,Windhoek,17.77,-22.145,Namibia,1,693
+Rundu,20.199,-17.928,Namibia,Mpacha,24.294,-17.391,Namibia,1,437
+Maun,23.718,-19.955,Botswana,Victoria Falls,26.398,-17.494,Zimbabwe,1,393
+Mpacha,24.294,-17.391,Namibia,Windhoek,17.77,-22.145,Namibia,1,863
+Lusaka,28.754,-14.885,Zambia,Windhoek,17.77,-22.145,Namibia,1,1410
+Luderitz,15.404,-26.479,Namibia,Oranjemund,16.744,-28.308,Namibia,1,242
+Frankfurt,8.905,50.044,Germany,Windhoek,17.77,-22.145,Namibia,1,8074
+Windhoek,17.77,-22.145,Namibia,Ondangwa,16.587,-17.797,Namibia,1,499
+Windhoek,17.77,-22.145,Namibia,Rundu,20.199,-17.928,Namibia,1,533
+Accra,0.388,6.008,Ghana,Windhoek,17.77,-22.145,Namibia,1,3658
+Riyadh,47.164,25.596,Saudi Arabia,Sharm El Sheikh,34.658,28.628,Egypt,1,1282
+Jeddah,39.26,22.132,Saudi Arabia,Sharm El Sheikh,34.658,28.628,Egypt,1,857
+Jeddah,39.26,22.132,Saudi Arabia,Johannesburg,28.41,-25.566,South Africa,1,5431
+Luanda,13.385,-8.764,Angola,Hurghada,34.332,27.297,Egypt,1,4601
+Hurghada,34.332,27.297,Egypt,Luanda,13.385,-8.764,Angola,1,4601
+Paris,2.916,49.021,France,Dzaoudzi,45.468,-12.675,Mayotte,1,8028
+Kinshasa,15.74,-3.977,Congo (Kinshasa),Yaounde,11.922,4.204,Cameroon,1,1003
+Brussels,4.807,51.502,Belgium,Dakar,-17.151,15.232,Senegal,1,4481
+Agadir,-9.244,30.635,Morocco,Marrakech,-7.394,32.011,Morocco,1,232
+Wau,28.633,8.208,Sudan,Khartoum,32.921,15.982,Sudan,1,981
+Port Sudan,37.39,19.722,Sudan,Cairo,31.675,30.203,Egypt,1,1299
+Port Sudan,37.39,19.722,Sudan,Asmara,39.517,15.486,Eritrea,1,522
+N'djamena,15.056,12.222,Chad,Kano,8.874,12.079,Nigeria,1,672
+Malakal,32.087,9.931,Sudan,Khartoum,32.921,15.982,Sudan,1,678
+Kassala,36.548,15.645,Sudan,Khartoum,32.921,15.982,Sudan,1,389
+Khartoum,32.921,15.982,Sudan,Wau,28.633,8.208,Sudan,1,981
+Khartoum,32.921,15.982,Sudan,Port Sudan,37.39,19.722,Sudan,1,629
+Khartoum,32.921,15.982,Sudan,Malakal,32.087,9.931,Sudan,1,678
+Khartoum,32.921,15.982,Sudan,Kassala,36.548,15.645,Sudan,1,389
+Khartoum,32.921,15.982,Sudan,El Obeid,30.387,13.255,Sudan,1,407
+Khartoum,32.921,15.982,Sudan,Asmara,39.517,15.486,Eritrea,1,708
+Kano,8.874,12.079,Nigeria,Khartoum,32.921,15.982,Sudan,1,2628
+Juba,32.001,5.453,South Sudan,Wau,28.633,8.208,Sudan,1,481
+Jeddah,39.26,22.132,Saudi Arabia,Port Sudan,37.39,19.722,Sudan,1,330
+Geneina,22.778,13.802,Sudan,Khartoum,32.921,15.982,Sudan,1,1116
+El Obeid,30.387,13.255,Sudan,Nyala,25.593,12.089,Sudan,1,535
+Cairo,31.675,30.203,Egypt,Port Sudan,37.39,19.722,Sudan,1,1299
+Asmara,39.517,15.486,Eritrea,Port Sudan,37.39,19.722,Sudan,1,522
+Asmara,39.517,15.486,Eritrea,Khartoum,32.921,15.982,Sudan,1,708
+Walvis Bay,15.075,-22.967,Namibia,Johannesburg,28.41,-25.566,South Africa,1,1381
+Umtata,29.123,-31.247,South Africa,Johannesburg,28.41,-25.566,South Africa,1,635
+Upington,21.433,-27.999,South Africa,Johannesburg,28.41,-25.566,South Africa,1,743
+Upington,21.433,-27.999,South Africa,Cape Town,19.002,-33.942,South Africa,1,700
+Richard's Bay,32.153,-28.569,South Africa,Johannesburg,28.41,-25.566,South Africa,1,498
+Pietermaritzburg,30.664,-29.415,South Africa,Johannesburg,28.41,-25.566,South Africa,1,482
+Pemba,40.87,-12.978,Mozambique,Johannesburg,28.41,-25.566,South Africa,1,1912
+Phalaborwa,31.258,-23.896,South Africa,Johannesburg,28.41,-25.566,South Africa,1,342
+Ndola,29.108,-12.997,Zambia,Johannesburg,28.41,-25.566,South Africa,1,1399
+Manzini,31.512,-26.216,Swaziland,Johannesburg,28.41,-25.566,South Africa,1,318
+Maseru,27.92,-29.104,Lesotho,Johannesburg,28.41,-25.566,South Africa,1,396
+Mpumalanga,31.176,-24.972,South Africa,Livingstone,26.371,-17.703,Zambia,1,948
+Mpumalanga,31.176,-24.972,South Africa,Durban,31.584,-29.951,South Africa,1,555
+Mpumalanga,31.176,-24.972,South Africa,Cape Town,19.002,-33.942,South Africa,1,1541
+Maputo,32.954,-25.869,Mozambique,Durban,31.584,-29.951,South Africa,1,473
+Maputo,32.954,-25.869,Mozambique,Cape Town,19.002,-33.942,South Africa,1,1614
+Livingstone,26.371,-17.703,Zambia,Mpumalanga,31.176,-24.972,South Africa,1,948
+Lusaka,28.754,-14.885,Zambia,Johannesburg,28.41,-25.566,South Africa,1,1188
+Lilongwe,34.301,-13.649,Malawi,Johannesburg,28.41,-25.566,South Africa,1,1461
+Libreville,9.687,0.764,Gabon,Johannesburg,28.41,-25.566,South Africa,1,3552
+Kimberley,25.275,-28.672,South Africa,Johannesburg,28.41,-25.566,South Africa,1,464
+Kimberley,25.275,-28.672,South Africa,Cape Town,19.002,-33.942,South Africa,1,835
+Johannesburg,28.41,-25.566,South Africa,Walvis Bay,15.075,-22.967,Namibia,1,1381
+Johannesburg,28.41,-25.566,South Africa,Umtata,29.123,-31.247,South Africa,1,635
+Johannesburg,28.41,-25.566,South Africa,Upington,21.433,-27.999,South Africa,1,743
+Johannesburg,28.41,-25.566,South Africa,Richard's Bay,32.153,-28.569,South Africa,1,498
+Johannesburg,28.41,-25.566,South Africa,Pietermaritzburg,30.664,-29.415,South Africa,1,482
+Johannesburg,28.41,-25.566,South Africa,Pemba,40.87,-12.978,Mozambique,1,1912
+Johannesburg,28.41,-25.566,South Africa,Phalaborwa,31.258,-23.896,South Africa,1,342
+Johannesburg,28.41,-25.566,South Africa,Ndola,29.108,-12.997,Zambia,1,1399
+Johannesburg,28.41,-25.566,South Africa,Manzini,31.512,-26.216,Swaziland,1,318
+Johannesburg,28.41,-25.566,South Africa,Maseru,27.92,-29.104,Lesotho,1,396
+Johannesburg,28.41,-25.566,South Africa,Lusaka,28.754,-14.885,Zambia,1,1188
+Johannesburg,28.41,-25.566,South Africa,Lilongwe,34.301,-13.649,Malawi,1,1461
+Johannesburg,28.41,-25.566,South Africa,Libreville,9.687,0.764,Gabon,1,3552
+Johannesburg,28.41,-25.566,South Africa,Kimberley,25.275,-28.672,South Africa,1,464
+Johannesburg,28.41,-25.566,South Africa,Hoedspruit,31.081,-23.948,South Africa,1,324
+Johannesburg,28.41,-25.566,South Africa,Entebbe,32.739,0.07,Uganda,1,2888
+Johannesburg,28.41,-25.566,South Africa,Bulawayo,29.029,-19.363,Zimbabwe,1,692
+Johannesburg,28.41,-25.566,South Africa,Blantyre,35.623,-15.466,Malawi,1,1350
+Johannesburg,28.41,-25.566,South Africa,Nampula,39.469,-14.51,Mozambique,1,1685
+Johannesburg,28.41,-25.566,South Africa,Accra,0.388,6.008,Ghana,1,4635
+Hoedspruit,31.081,-23.948,South Africa,Johannesburg,28.41,-25.566,South Africa,1,324
+Hoedspruit,31.081,-23.948,South Africa,Cape Town,19.002,-33.942,South Africa,1,1615
+Sao Paulo,-46.116,-23.054,Brazil,Johannesburg,28.41,-25.566,South Africa,1,7452
+George,22.631,-33.343,South Africa,Durban,31.584,-29.951,South Africa,1,927
+George,22.631,-33.343,South Africa,Cape Town,19.002,-33.942,South Africa,1,342
+Kinshasa,15.74,-3.977,Congo (Kinshasa),Johannesburg,28.41,-25.566,South Africa,1,2755
+Lubumashi,27.884,-11.319,Congo (Kinshasa),Johannesburg,28.41,-25.566,South Africa,1,1585
+Buenos Aires,-58.227,-34.704,Argentina,Johannesburg,28.41,-25.566,South Africa,1,8138
+East London,28.376,-32.393,South Africa,Durban,31.584,-29.951,South Africa,1,408
+Entebbe,32.739,0.07,Uganda,Johannesburg,28.41,-25.566,South Africa,1,2888
+Durban,31.584,-29.951,South Africa,Mpumalanga,31.176,-24.972,South Africa,1,555
+Durban,31.584,-29.951,South Africa,Maputo,32.954,-25.869,Mozambique,1,473
+Durban,31.584,-29.951,South Africa,George,22.631,-33.343,South Africa,1,927
+Durban,31.584,-29.951,South Africa,East London,28.376,-32.393,South Africa,1,408
+Durban,31.584,-29.951,South Africa,Bloemfontein,26.504,-28.488,South Africa,1,519
+Cape Town,19.002,-33.942,South Africa,Upington,21.433,-27.999,South Africa,1,700
+Cape Town,19.002,-33.942,South Africa,Mpumalanga,31.176,-24.972,South Africa,1,1541
+Cape Town,19.002,-33.942,South Africa,Maputo,32.954,-25.869,Mozambique,1,1614
+Cape Town,19.002,-33.942,South Africa,Kimberley,25.275,-28.672,South Africa,1,835
+Cape Town,19.002,-33.942,South Africa,Hoedspruit,31.081,-23.948,South Africa,1,1615
+Cape Town,19.002,-33.942,South Africa,George,22.631,-33.343,South Africa,1,342
+Bulawayo,29.029,-19.363,Zimbabwe,Johannesburg,28.41,-25.566,South Africa,1,692
+Blantyre,35.623,-15.466,Malawi,Johannesburg,28.41,-25.566,South Africa,1,1350
+Bloemfontein,26.504,-28.488,South Africa,Durban,31.584,-29.951,South Africa,1,519
+Nampula,39.469,-14.51,Mozambique,Johannesburg,28.41,-25.566,South Africa,1,1685
+Accra,0.388,6.008,Ghana,Johannesburg,28.41,-25.566,South Africa,1,4635
+Ras Al Khaimah,56.564,26.022,United Arab Emirates,Khartoum,32.921,15.982,Sudan,1,2690
+Ras Al Khaimah,56.564,26.022,United Arab Emirates,Cairo,31.675,30.203,Egypt,1,2479
+Bucharest,26.17,44.953,Romania,Cairo,31.675,30.203,Egypt,1,1709
+Amman,36.655,32.204,Jordan,Tunis,10.378,37.418,Tunisia,1,2459
+Amman,36.655,32.204,Jordan,Sharm El Sheikh,34.658,28.628,Egypt,1,441
+Amman,36.655,32.204,Jordan,Nairobi,37.545,-0.866,Kenya,1,3678
+Amman,36.655,32.204,Jordan,Khartoum,32.921,15.982,Sudan,1,1842
+Amman,36.655,32.204,Jordan,Benghazi,20.449,32.161,Libya,1,1523
+Latakia,36.581,35.668,Syria,Cairo,31.675,30.203,Egypt,1,760
+Aleppo,37.373,36.301,Syria,Algier,3.359,37.151,Algeria,1,3016
+Doha,51.941,25.435,Qatar,Tunis,10.378,37.418,Tunisia,1,4124
+Doha,51.941,25.435,Qatar,Mahe,55.869,-4.458,Seychelles,1,3350
+Doha,51.941,25.435,Qatar,Nairobi,37.545,-0.866,Kenya,1,3308
+Doha,51.941,25.435,Qatar,Luxor,33.177,26.118,Egypt,1,1878
+Doha,51.941,25.435,Qatar,Lagos,3.535,6.962,Nigeria,1,5523
+Doha,51.941,25.435,Qatar,Johannesburg,28.41,-25.566,South Africa,1,6208
+Doha,51.941,25.435,Qatar,Alexandria,30.16,31.529,Egypt,1,2229
+Doha,51.941,25.435,Qatar,Entebbe,32.739,0.07,Uganda,1,3493
+Doha,51.941,25.435,Qatar,Dar Es Salaam,39.337,-6.797,Tanzania,1,3834
+Doha,51.941,25.435,Qatar,Benghazi,20.449,32.161,Libya,1,3146
+Doha,51.941,25.435,Qatar,Algier,3.359,37.151,Algeria,1,4742
+Lilongwe,34.301,-13.649,Malawi,Harare,31.154,-17.887,Zimbabwe,1,579
+Lilongwe,34.301,-13.649,Malawi,Blantyre,35.623,-15.466,Malawi,1,247
+Harare,31.154,-17.887,Zimbabwe,Lilongwe,34.301,-13.649,Malawi,1,579
+Harare,31.154,-17.887,Zimbabwe,Blantyre,35.623,-15.466,Malawi,1,546
+Dar Es Salaam,39.337,-6.797,Tanzania,Blantyre,35.623,-15.466,Malawi,1,1045
+Blantyre,35.623,-15.466,Malawi,Lusaka,28.754,-14.885,Zambia,1,739
+Blantyre,35.623,-15.466,Malawi,Lilongwe,34.301,-13.649,Malawi,1,247
+Blantyre,35.623,-15.466,Malawi,Harare,31.154,-17.887,Zimbabwe,1,546
+Blantyre,35.623,-15.466,Malawi,Dar Es Salaam,39.337,-6.797,Tanzania,1,1045
+Yaounde,11.922,4.204,Cameroon,N'djamena,15.056,12.222,Chad,1,955
+Yaounde,11.922,4.204,Cameroon,Maroua,14.428,10.752,Cameroon,1,778
+Yaounde,11.922,4.204,Cameroon,Garoua,13.616,9.559,Cameroon,1,624
+Maroua,14.428,10.752,Cameroon,Yaounde,11.922,4.204,Cameroon,1,778
+Lyon,5.151,46.21,France,Douala,10.199,4.01,Cameroon,1,4717
+Garoua,13.616,9.559,Cameroon,Yaounde,11.922,4.204,Cameroon,1,624
+Douala,10.199,4.01,Cameroon,Maroua,14.428,10.752,Cameroon,1,882
+Pointe-noire,12.477,-4.694,Congo (Brazzaville),Douala,10.199,4.01,Cameroon,1,1000
+Kigoma,30.055,-4.805,Tanzania,Mwanza,33.554,-2.075,Tanzania,1,492
+Shinyanga,33.695,-3.445,Tanzania,Mwanza,33.554,-2.075,Tanzania,1,153
+Mwanza,33.554,-2.075,Tanzania,Kigoma,30.055,-4.805,Tanzania,1,492
+Mwanza,33.554,-2.075,Tanzania,Shinyanga,33.695,-3.445,Tanzania,1,153
+Mwanza,33.554,-2.075,Tanzania,Bukoba,32.333,-0.834,Tanzania,1,193
+Musoma,34.333,-1.139,Tanzania,Mwanza,33.554,-2.075,Tanzania,1,135
+Kilimanjaro,37.124,-3.05,Tanzania,Zanzibar,39.374,-5.704,Tanzania,1,386
+Kilimanjaro,37.124,-3.05,Tanzania,Entebbe,32.739,0.07,Uganda,1,598
+Moroni,43.453,-11.223,Comoros,Dar Es Salaam,39.337,-6.797,Tanzania,1,668
+Entebbe,32.739,0.07,Uganda,Kilimanjaro,37.124,-3.05,Tanzania,1,598
+Dar Es Salaam,39.337,-6.797,Tanzania,Musoma,34.333,-1.139,Tanzania,1,838
+Dar Es Salaam,39.337,-6.797,Tanzania,Moroni,43.453,-11.223,Comoros,1,668
+Bukoba,32.333,-0.834,Tanzania,Mwanza,33.554,-2.075,Tanzania,1,193
+Nairobi,37.545,-0.866,Kenya,Samburu South,37.89,0.884,Kenya,1,198
+Samburu South,37.89,0.884,Kenya,Nairobi,37.545,-0.866,Kenya,1,198
+Samburu South,37.89,0.884,Kenya,Nanyuki,37.055,0.555,Kenya,1,99
+Nanyuki,37.055,0.555,Kenya,Samburu South,37.89,0.884,Kenya,1,99
+Solwesi,26.608,-11.623,Zambia,Ndola,29.108,-12.997,Zambia,1,311
+Ndola,29.108,-12.997,Zambia,Solwesi,26.608,-11.623,Zambia,1,311
+Ndola,29.108,-12.997,Zambia,Lusaka,28.754,-14.885,Zambia,1,213
+Mfuwe,32.56,-12.765,Zambia,Lusaka,28.754,-14.885,Zambia,1,473
+Livingstone,26.371,-17.703,Zambia,Lusaka,28.754,-14.885,Zambia,1,403
+Lusaka,28.754,-14.885,Zambia,Ndola,29.108,-12.997,Zambia,1,213
+Lusaka,28.754,-14.885,Zambia,Mfuwe,32.56,-12.765,Zambia,1,473
+Lusaka,28.754,-14.885,Zambia,Livingstone,26.371,-17.703,Zambia,1,403
+Lusaka,28.754,-14.885,Zambia,Chipata,32.978,-13.264,Zambia,1,489
+Gran Canaria,-14.978,28.553,Spain,Marrakech,-7.394,32.011,Morocco,1,823
+Berlin,13.479,52.932,Germany,Cairo,31.675,30.203,Egypt,1,2927
+Sharm El Sheikh,34.658,28.628,Egypt,Luxor,33.177,26.118,Egypt,1,315
+Sharm El Sheikh,34.658,28.628,Egypt,Alexandria,30.16,31.529,Egypt,1,539
+Sharm El Sheikh,34.658,28.628,Egypt,Cairo,31.675,30.203,Egypt,1,337
+Sharjah,55.861,25.547,United Arab Emirates,Cairo,31.675,30.203,Egypt,1,2428
+Marsa Alam,34.972,25.928,Egypt,Cairo,31.675,30.203,Egypt,1,574
+Port Said,32.4,31.465,Egypt,Cairo,31.675,30.203,Egypt,1,156
+Nairobi,37.545,-0.866,Kenya,Cairo,31.675,30.203,Egypt,1,3510
+Malta,14.795,36.429,Malta,Cairo,31.675,30.203,Egypt,1,1711
+Luxor,33.177,26.118,Egypt,Cairo,31.675,30.203,Egypt,1,477
+Lagos,3.535,6.962,Nigeria,Cairo,31.675,30.203,Egypt,1,3910
+Larnaca,34.041,35.458,Cyprus,Cairo,31.675,30.203,Egypt,1,624
+Kano,8.874,12.079,Nigeria,Cairo,31.675,30.203,Egypt,1,3094
+Juba,32.001,5.453,South Sudan,Cairo,31.675,30.203,Egypt,1,2752
+Hurghada,34.332,27.297,Egypt,Alexandria,30.16,31.529,Egypt,1,620
+Hurghada,34.332,27.297,Egypt,Cairo,31.675,30.203,Egypt,1,414
+Sohag,32.238,26.568,Egypt,Cairo,31.675,30.203,Egypt,1,407
+Alexandria,30.16,31.529,Egypt,Sharm El Sheikh,34.658,28.628,Egypt,1,539
+Alexandria,30.16,31.529,Egypt,Hurghada,34.332,27.297,Egypt,1,620
+Erbil,44.605,36.396,Iraq,Cairo,31.675,30.203,Egypt,1,1383
+Entebbe,32.739,0.07,Uganda,Cairo,31.675,30.203,Egypt,1,3352
+Dar Es Salaam,39.337,-6.797,Tanzania,Cairo,31.675,30.203,Egypt,1,4194
+Cairo,31.675,30.203,Egypt,Sharm El Sheikh,34.658,28.628,Egypt,1,337
+Cairo,31.675,30.203,Egypt,Marsa Alam,34.972,25.928,Egypt,1,574
+Cairo,31.675,30.203,Egypt,Port Said,32.4,31.465,Egypt,1,156
+Cairo,31.675,30.203,Egypt,Nairobi,37.545,-0.866,Kenya,1,3510
+Cairo,31.675,30.203,Egypt,Luxor,33.177,26.118,Egypt,1,477
+Cairo,31.675,30.203,Egypt,Lagos,3.535,6.962,Nigeria,1,3910
+Cairo,31.675,30.203,Egypt,Kano,8.874,12.079,Nigeria,1,3094
+Cairo,31.675,30.203,Egypt,Hurghada,34.332,27.297,Egypt,1,414
+Cairo,31.675,30.203,Egypt,Sohag,32.238,26.568,Egypt,1,407
+Cairo,31.675,30.203,Egypt,Entebbe,32.739,0.07,Uganda,1,3352
+Cairo,31.675,30.203,Egypt,Dar Es Salaam,39.337,-6.797,Tanzania,1,4194
+Cairo,31.675,30.203,Egypt,Asyut,31.019,27.077,Egypt,1,353
+Cairo,31.675,30.203,Egypt,Aswan,33.366,24.607,Egypt,1,644
+Cairo,31.675,30.203,Egypt,Asmara,39.517,15.486,Eritrea,1,1821
+Cairo,31.675,30.203,Egypt,Accra,0.388,6.008,Ghana,1,4234
+Cairo,31.675,30.203,Egypt,Abuja,7.438,9.011,Nigeria,1,3447
+Budapest,19.425,47.728,Hungary,Cairo,31.675,30.203,Egypt,1,2211
+Bombay,73.446,19.147,India,Cairo,31.675,30.203,Egypt,1,4369
+Baghdad,44.39,33.437,Iraq,Cairo,31.675,30.203,Egypt,1,1253
+Beirut,35.813,34.368,Lebanon,Alexandria,30.16,31.529,Egypt,1,614
+Asyut,31.019,27.077,Egypt,Cairo,31.675,30.203,Egypt,1,353
+Athens,24.574,38.56,Greece,Alexandria,30.16,31.529,Egypt,1,932
+Aswan,33.366,24.607,Egypt,Cairo,31.675,30.203,Egypt,1,644
+Aswan,33.366,24.607,Egypt,Abu Simbel,32.019,22.626,Egypt,1,259
+Asmara,39.517,15.486,Eritrea,Cairo,31.675,30.203,Egypt,1,1821
+Accra,0.388,6.008,Ghana,Cairo,31.675,30.203,Egypt,1,4234
+Abuja,7.438,9.011,Nigeria,Cairo,31.675,30.203,Egypt,1,3447
+Abu Simbel,32.019,22.626,Egypt,Aswan,33.366,24.607,Egypt,1,259
+Rodriguez Island,63.601,-19.597,Mauritius,Plaisance,58.139,-20.051,Mauritius,1,573
+Perth,116.611,-31.901,Australia,Plaisance,58.139,-20.051,Mauritius,1,5922
+Munich,12.31,48.589,Germany,Plaisance,58.139,-20.051,Mauritius,1,8881
+Plaisance,58.139,-20.051,Mauritius,Rodriguez Island,63.601,-19.597,Mauritius,1,573
+Melbourne,145.405,-37.456,Australia,Plaisance,58.139,-20.051,Mauritius,1,8436
+Hong Kong,114.524,22.514,Hong Kong,Plaisance,58.139,-20.051,Mauritius,1,7735
+Geneva,6.181,46.396,Switzerland,Plaisance,58.139,-20.051,Mauritius,1,9042
+Kuala Lumpur,102.183,3.242,Malaysia,Cape Town,19.002,-33.942,South Africa,1,9581
+Buenos Aires,-58.227,-34.704,Argentina,Cape Town,19.002,-33.942,South Africa,1,6899
+Lagos,3.535,6.962,Nigeria,Abidjan,-3.878,5.435,Cote d'Ivoire,1,836
+Kano,8.874,12.079,Nigeria,Accra,0.388,6.008,Ghana,1,1150
+Beirut,35.813,34.368,Lebanon,Lagos,3.535,6.962,Nigeria,1,4496
+Beirut,35.813,34.368,Lebanon,Kano,8.874,12.079,Nigeria,1,3680
+Accra,0.388,6.008,Ghana,Kano,8.874,12.079,Nigeria,1,1150
+Abidjan,-3.878,5.435,Cote d'Ivoire,Lagos,3.535,6.962,Nigeria,1,836
+St.-pierre,55.705,-20.867,Reunion,Antananarivo,47.798,-18.662,Madagascar,1,862
+Mananara,50.289,-15.607,Madagascar,Toamasina,49.654,-17.516,Madagascar,1,222
+Maroantsetra,50.147,-15.062,Madagascar,Antananarivo,47.798,-18.662,Madagascar,1,471
+Maroantsetra,50.147,-15.062,Madagascar,Toamasina,49.654,-17.516,Madagascar,1,277
+Maroantsetra,50.147,-15.062,Madagascar,Sambava,50.291,-13.798,Madagascar,1,141
+Maroantsetra,50.147,-15.062,Madagascar,Antalaha,50.533,-15,Madagascar,1,42
+Antananarivo,47.798,-18.662,Madagascar,Maroantsetra,50.147,-15.062,Madagascar,1,471
+Antananarivo,47.798,-18.662,Madagascar,Toamasina,49.654,-17.516,Madagascar,1,233
+Antananarivo,47.798,-18.662,Madagascar,Toliara,44.214,-22.973,Madagascar,1,607
+Antananarivo,47.798,-18.662,Madagascar,Sambava,50.291,-13.798,Madagascar,1,602
+Antananarivo,47.798,-18.662,Madagascar,Sainte Marie,50.359,-16.49,Madagascar,1,363
+Antananarivo,47.798,-18.662,Madagascar,Nosy-be,48.524,-12.854,Madagascar,1,650
+Antananarivo,47.798,-18.662,Madagascar,Morondava,44.529,-19.808,Madagascar,1,366
+Antananarivo,47.798,-18.662,Madagascar,Mahajanga,46.586,-15.446,Madagascar,1,380
+Antananarivo,47.798,-18.662,Madagascar,Moroni,43.453,-11.223,Comoros,1,949
+Antananarivo,47.798,-18.662,Madagascar,Tolagnaro,47.593,-24.397,Madagascar,1,638
+Antananarivo,47.798,-18.662,Madagascar,Antsiranana,49.486,-11.916,Madagascar,1,771
+Antananarivo,47.798,-18.662,Madagascar,Antalaha,50.533,-15,Madagascar,1,500
+Toamasina,49.654,-17.516,Madagascar,Mananara,50.289,-15.607,Madagascar,1,222
+Toamasina,49.654,-17.516,Madagascar,Maroantsetra,50.147,-15.062,Madagascar,1,277
+Toamasina,49.654,-17.516,Madagascar,Antananarivo,47.798,-18.662,Madagascar,1,233
+Toamasina,49.654,-17.516,Madagascar,Sainte Marie,50.359,-16.49,Madagascar,1,136
+Toamasina,49.654,-17.516,Madagascar,Antalaha,50.533,-15,Madagascar,1,295
+Toliara,44.214,-22.973,Madagascar,Antananarivo,47.798,-18.662,Madagascar,1,607
+Toliara,44.214,-22.973,Madagascar,St.-denis,55.85,-20.812,Reunion,1,1223
+Toliara,44.214,-22.973,Madagascar,Morondava,44.529,-19.808,Madagascar,1,353
+Toliara,44.214,-22.973,Madagascar,Tolagnaro,47.593,-24.397,Madagascar,1,378
+Sambava,50.291,-13.798,Madagascar,Maroantsetra,50.147,-15.062,Madagascar,1,141
+Sambava,50.291,-13.798,Madagascar,Antananarivo,47.798,-18.662,Madagascar,1,602
+Sambava,50.291,-13.798,Madagascar,Antsiranana,49.486,-11.916,Madagascar,1,226
+Sainte Marie,50.359,-16.49,Madagascar,Antananarivo,47.798,-18.662,Madagascar,1,363
+Sainte Marie,50.359,-16.49,Madagascar,Toamasina,49.654,-17.516,Madagascar,1,136
+Sainte Marie,50.359,-16.49,Madagascar,St.-denis,55.85,-20.812,Reunion,1,751
+St.-denis,55.85,-20.812,Reunion,Toliara,44.214,-22.973,Madagascar,1,1223
+St.-denis,55.85,-20.812,Reunion,Sainte Marie,50.359,-16.49,Madagascar,1,751
+St.-denis,55.85,-20.812,Reunion,Mahajanga,46.586,-15.446,Madagascar,1,1145
+St.-denis,55.85,-20.812,Reunion,Antsiranana,49.486,-11.916,Madagascar,1,1199
+Nosy-be,48.524,-12.854,Madagascar,Antananarivo,47.798,-18.662,Madagascar,1,650
+Nosy-be,48.524,-12.854,Madagascar,Johannesburg,28.41,-25.566,South Africa,1,2535
+Nosy-be,48.524,-12.854,Madagascar,Moroni,43.453,-11.223,Comoros,1,580
+Nosy-be,48.524,-12.854,Madagascar,Antsiranana,49.486,-11.916,Madagascar,1,147
+Marseille,5.356,43.725,France,Antananarivo,47.798,-18.662,Madagascar,1,8172
+Morondava,44.529,-19.808,Madagascar,Antananarivo,47.798,-18.662,Madagascar,1,366
+Morondava,44.529,-19.808,Madagascar,Toliara,44.214,-22.973,Madagascar,1,353
+Morondava,44.529,-19.808,Madagascar,Tolagnaro,47.593,-24.397,Madagascar,1,599
+Mahajanga,46.586,-15.446,Madagascar,Antananarivo,47.798,-18.662,Madagascar,1,380
+Mahajanga,46.586,-15.446,Madagascar,St.-denis,55.85,-20.812,Reunion,1,1145
+Mahajanga,46.586,-15.446,Madagascar,Moroni,43.453,-11.223,Comoros,1,579
+Mahajanga,46.586,-15.446,Madagascar,Antsiranana,49.486,-11.916,Madagascar,1,502
+Mahajanga,46.586,-15.446,Madagascar,Anjouan,44.717,-11.553,Comoros,1,477
+Johannesburg,28.41,-25.566,South Africa,Nosy-be,48.524,-12.854,Madagascar,1,2535
+Moroni,43.453,-11.223,Comoros,Antananarivo,47.798,-18.662,Madagascar,1,949
+Moroni,43.453,-11.223,Comoros,Nosy-be,48.524,-12.854,Madagascar,1,580
+Moroni,43.453,-11.223,Comoros,Mahajanga,46.586,-15.446,Madagascar,1,579
+Moroni,43.453,-11.223,Comoros,Anjouan,44.717,-11.553,Comoros,1,142
+Tolagnaro,47.593,-24.397,Madagascar,Antananarivo,47.798,-18.662,Madagascar,1,638
+Tolagnaro,47.593,-24.397,Madagascar,Toliara,44.214,-22.973,Madagascar,1,378
+Dzaoudzi,45.468,-12.675,Mayotte,Antsiranana,49.486,-11.916,Madagascar,1,444
+Antsiranana,49.486,-11.916,Madagascar,Antananarivo,47.798,-18.662,Madagascar,1,771
+Antsiranana,49.486,-11.916,Madagascar,Sambava,50.291,-13.798,Madagascar,1,226
+Antsiranana,49.486,-11.916,Madagascar,St.-denis,55.85,-20.812,Reunion,1,1199
+Antsiranana,49.486,-11.916,Madagascar,Nosy-be,48.524,-12.854,Madagascar,1,147
+Antsiranana,49.486,-11.916,Madagascar,Mahajanga,46.586,-15.446,Madagascar,1,502
+Antsiranana,49.486,-11.916,Madagascar,Dzaoudzi,45.468,-12.675,Mayotte,1,444
+Antalaha,50.533,-15,Madagascar,Maroantsetra,50.147,-15.062,Madagascar,1,42
+Antalaha,50.533,-15,Madagascar,Antananarivo,47.798,-18.662,Madagascar,1,500
+Antalaha,50.533,-15,Madagascar,Toamasina,49.654,-17.516,Madagascar,1,295
+Anjouan,44.717,-11.553,Comoros,Mahajanga,46.586,-15.446,Madagascar,1,477
+Anjouan,44.717,-11.553,Comoros,Dzaoudzi,45.468,-12.675,Mayotte,1,149
+El Fasher,25.541,14.024,Sudan,Nyala,25.593,12.089,Sudan,1,215
+Geneina,22.778,13.802,Sudan,Nyala,25.593,12.089,Sudan,1,359
+Tel-aviv,35.477,32.018,Israel,Johannesburg,28.41,-25.566,South Africa,1,6446
+Zurich,8.915,47.774,Switzerland,Marsa Alam,34.972,25.928,Egypt,1,3326
+Zurich,8.915,47.774,Switzerland,Marrakech,-7.394,32.011,Morocco,1,2228
+Zurich,8.915,47.774,Switzerland,Plaisance,58.139,-20.051,Mauritius,1,8993
+Zurich,8.915,47.774,Switzerland,Kilimanjaro,37.124,-3.05,Tanzania,1,6282
+Zurich,8.915,47.774,Switzerland,Cape Town,19.002,-33.942,South Africa,1,9141
+Geneva,6.181,46.396,Switzerland,Sharm El Sheikh,34.658,28.628,Egypt,1,3165
+Tripoli,13.265,33.105,Libya,Sebha,14.787,27.644,Libya,1,624
+Tripoli,13.265,33.105,Libya,Benghazi,20.449,32.161,Libya,1,680
+Sebha,14.787,27.644,Libya,Tripoli,13.265,33.105,Libya,1,624
+Misratah,15.101,32.541,Libya,Benghazi,20.449,32.161,Libya,1,504
+Alexandria,30.16,31.529,Egypt,Benghazi,20.449,32.161,Libya,1,919
+Benghazi,20.449,32.161,Libya,Tripoli,13.265,33.105,Libya,1,680
+Benghazi,20.449,32.161,Libya,Misratah,15.101,32.541,Libya,1,504
+Benghazi,20.449,32.161,Libya,Alexandria,30.16,31.529,Egypt,1,919
+Malabo,9.181,4.258,Equatorial Guinea,Abuja,7.438,9.011,Nigeria,1,562
+Frankfurt,8.905,50.044,Germany,Lagos,3.535,6.962,Nigeria,1,4816
+Frankfurt,8.905,50.044,Germany,Libreville,9.687,0.764,Gabon,1,5480
+Frankfurt,8.905,50.044,Germany,Accra,0.388,6.008,Ghana,1,4960
+Abuja,7.438,9.011,Nigeria,Malabo,9.181,4.258,Equatorial Guinea,1,562
+Luxemburg,6.352,50.044,Luxembourg,Djerba,11.292,34.458,Tunisia,1,1779
+Luxemburg,6.352,50.044,Luxembourg,Boa Vista,-22.815,16.227,Cape Verde,1,4579
+Luxemburg,6.352,50.044,Luxembourg,Agadir,-9.244,30.635,Morocco,1,2519
+Monrovia,-9.938,6.389,Liberia,Dakar,-17.151,15.232,Senegal,1,1259
+Bissau,-15.423,12.491,Guinea-Bissau,Freetown,-12.66,9.027,Sierra Leone,1,489
+Nouakschott,-15.914,18.163,Mauritania,Nouadhibou,-16.384,21.555,Mauritania,1,380
+Nouadhibou,-16.384,21.555,Mauritania,Nouakschott,-15.914,18.163,Mauritania,1,380
+Freetown,-12.66,9.027,Sierra Leone,Bissau,-15.423,12.491,Guinea-Bissau,1,489
+Dakar,-17.151,15.232,Senegal,Monrovia,-9.938,6.389,Liberia,1,1259
+Kuwait,48.614,29.377,Kuwait,Sharm El Sheikh,34.658,28.628,Egypt,1,1358
+Mahe,55.869,-4.458,Seychelles,Nairobi,37.545,-0.866,Kenya,1,2073
+Ouagadougou,-1.188,12.588,Burkina Faso,Nairobi,37.545,-0.866,Kenya,1,4527
+Yaounde,11.922,4.204,Cameroon,Nairobi,37.545,-0.866,Kenya,1,2902
+N'djamena,15.056,12.222,Chad,Nairobi,37.545,-0.866,Kenya,1,2877
+N'djamena,15.056,12.222,Chad,Cotonou,2.64,6.595,Benin,1,1498
+Nairobi,37.545,-0.866,Kenya,Mahe,55.869,-4.458,Seychelles,1,2073
+Nairobi,37.545,-0.866,Kenya,Ouagadougou,-1.188,12.588,Burkina Faso,1,4527
+Nairobi,37.545,-0.866,Kenya,Yaounde,11.922,4.204,Cameroon,1,2902
+Nairobi,37.545,-0.866,Kenya,N'djamena,15.056,12.222,Chad,1,2877
+Nairobi,37.545,-0.866,Kenya,Maputo,32.954,-25.869,Mozambique,1,2823
+Nairobi,37.545,-0.866,Kenya,Khartoum,32.921,15.982,Sudan,1,1941
+Nairobi,37.545,-0.866,Kenya,Moroni,43.453,-11.223,Comoros,1,1323
+Nairobi,37.545,-0.866,Kenya,Dzaoudzi,45.468,-12.675,Mayotte,1,1576
+Nairobi,37.545,-0.866,Kenya,Douala,10.199,4.01,Cameroon,1,3086
+Nairobi,37.545,-0.866,Kenya,Cotonou,2.64,6.595,Benin,1,3961
+Nairobi,37.545,-0.866,Kenya,Bamako,-7.917,12.889,Mali,1,5241
+Nairobi,37.545,-0.866,Kenya,Bangui,18.864,4.664,Central African Republic,1,2164
+Nairobi,37.545,-0.866,Kenya,Nampula,39.469,-14.51,Mozambique,1,1531
+Nairobi,37.545,-0.866,Kenya,Accra,0.388,6.008,Ghana,1,4195
+Nairobi,37.545,-0.866,Kenya,Abidjan,-3.878,5.435,Cote d'Ivoire,1,4652
+Maputo,32.954,-25.869,Mozambique,Nairobi,37.545,-0.866,Kenya,1,2823
+Libreville,9.687,0.764,Gabon,Nairobi,37.545,-0.866,Kenya,1,3102
+Khartoum,32.921,15.982,Sudan,Nairobi,37.545,-0.866,Kenya,1,1941
+Freetown,-12.66,9.027,Sierra Leone,Accra,0.388,6.008,Ghana,1,1476
+Dzaoudzi,45.468,-12.675,Mayotte,Nairobi,37.545,-0.866,Kenya,1,1576
+Douala,10.199,4.01,Cameroon,Nairobi,37.545,-0.866,Kenya,1,3086
+Cotonou,2.64,6.595,Benin,N'djamena,15.056,12.222,Chad,1,1498
+Cotonou,2.64,6.595,Benin,Nairobi,37.545,-0.866,Kenya,1,3961
+Bamako,-7.917,12.889,Mali,Nairobi,37.545,-0.866,Kenya,1,5241
+Bangkok,101.245,14.135,Thailand,Nairobi,37.545,-0.866,Kenya,1,7204
+Bangui,18.864,4.664,Central African Republic,Nairobi,37.545,-0.866,Kenya,1,2164
+Nampula,39.469,-14.51,Mozambique,Nairobi,37.545,-0.866,Kenya,1,1531
+Accra,0.388,6.008,Ghana,Nairobi,37.545,-0.866,Kenya,1,4195
+Accra,0.388,6.008,Ghana,Freetown,-12.66,9.027,Sierra Leone,1,1476
+Abidjan,-3.878,5.435,Cote d'Ivoire,Nairobi,37.545,-0.866,Kenya,1,4652
+Amsterdam,5.273,52.514,Netherlands,Lagos,3.535,6.962,Nigeria,1,5067
+Amsterdam,5.273,52.514,Netherlands,Kilimanjaro,37.124,-3.05,Tanzania,1,6861
+Amsterdam,5.273,52.514,Netherlands,Johannesburg,28.41,-25.566,South Africa,1,8968
+Amsterdam,5.273,52.514,Netherlands,Accra,0.388,6.008,Ghana,1,5190
+Tashkent,69.468,41.429,Uzbekistan,Cairo,31.675,30.203,Egypt,1,3595
+Valencia,-0.137,39.815,Spain,Algier,3.359,37.151,Algeria,1,424
+Barcelona,2.13,41.495,Spain,Bamako,-7.917,12.889,Mali,1,3326
+Barcelona,2.13,41.495,Spain,Banjul,-16.421,13.563,Gambia,1,3586
+Alicante,-0.264,38.47,Spain,Oran,-0.369,36.039,Algeria,1,270
+Alicante,-0.264,38.47,Spain,Algier,3.359,37.151,Algeria,1,350
+Taiz,44.231,14.143,Yemen,Cairo,31.675,30.203,Egypt,1,2200
+Sanaa,44.366,15.793,Yemen,Nairobi,37.545,-0.866,Kenya,1,1998
+Sanaa,44.366,15.793,Yemen,Khartoum,32.921,15.982,Sudan,1,1224
+Sanaa,44.366,15.793,Yemen,Djibouti,43.265,11.912,Djibouti,1,447
+Sanaa,44.366,15.793,Yemen,Asmara,39.517,15.486,Eritrea,1,520
+Sanaa,44.366,15.793,Yemen,Addis Ababa,39.332,9.629,Ethiopia,1,876
+Djibouti,43.265,11.912,Djibouti,Moroni,43.453,-11.223,Comoros,1,2572
+Hodeidah,43.627,15.255,Yemen,Cairo,31.675,30.203,Egypt,1,2061
+Moroni,43.453,-11.223,Comoros,Djibouti,43.265,11.912,Djibouti,1,2572
+Aden,45.047,13.382,Yemen,Cairo,31.675,30.203,Egypt,1,2320
+Villafranca,11.48,45.659,Italy,Plaisance,58.139,-20.051,Mauritius,1,8689
+Villafranca,11.48,45.659,Italy,Hurghada,34.332,27.297,Egypt,1,2868
+Pisa,10.654,44.139,Italy,Sharm El Sheikh,34.658,28.628,Egypt,1,2737
+Milano,9.213,46.051,Italy,Zanzibar,39.374,-5.704,Tanzania,1,6482
+Milano,9.213,46.051,Italy,Sharm El Sheikh,34.658,28.628,Egypt,1,2945
+Milano,9.213,46.051,Italy,Mombasa,39.99,-3.392,Kenya,1,6277
+Milano,9.213,46.051,Italy,Hurghada,34.332,27.297,Egypt,1,3036
+Milano,9.213,46.051,Italy,Dakar,-17.151,15.232,Senegal,1,4213
+Rome,12.417,42.34,Italy,Zanzibar,39.374,-5.704,Tanzania,1,5997
+Rome,12.417,42.34,Italy,Sharm El Sheikh,34.658,28.628,Egypt,1,2512
+Rome,12.417,42.34,Italy,Plaisance,58.139,-20.051,Mauritius,1,8372
+Rome,12.417,42.34,Italy,Mombasa,39.99,-3.392,Kenya,1,5793
+Bologna,11.481,44.892,Italy,Zanzibar,39.374,-5.704,Tanzania,1,6275
+Bologna,11.481,44.892,Italy,Marsa Alam,34.972,25.928,Egypt,1,2975
+Bergamo,10.173,46.123,Italy,Sharm El Sheikh,34.658,28.628,Egypt,1,2887
+Madrid,-3.278,40.822,Spain,Oran,-0.369,36.039,Algeria,1,589
+Madrid,-3.278,40.822,Spain,Lagos,3.535,6.962,Nigeria,1,3825
+Madrid,-3.278,40.822,Spain,Johannesburg,28.41,-25.566,South Africa,1,8074
+Gran Canaria,-14.978,28.553,Spain,Dakar,-17.151,15.232,Senegal,1,1497
+Tombouctou,-2.346,17.217,Mali,Mopti,-3.466,14.854,Mali,1,288
+Monrovia,-9.938,6.389,Liberia,Bamako,-7.917,12.889,Mali,1,755
+Mopti,-3.466,14.854,Mali,Tombouctou,-2.346,17.217,Mali,1,288
+Mopti,-3.466,14.854,Mali,Bamako,-7.917,12.889,Mali,1,527
+Lome,1.424,6.276,Togo,Libreville,9.687,0.764,Gabon,1,1102
+Libreville,9.687,0.764,Gabon,Lome,1.424,6.276,Togo,1,1102
+Bamako,-7.917,12.889,Mali,Monrovia,-9.938,6.389,Liberia,1,755
+Bamako,-7.917,12.889,Mali,Mopti,-3.466,14.854,Mali,1,527
+Amsterdam,5.273,52.514,Netherlands,Sharm El Sheikh,34.658,28.628,Egypt,1,3587
+Amsterdam,5.273,52.514,Netherlands,Marsa Alam,34.972,25.928,Egypt,1,3855
+Amsterdam,5.273,52.514,Netherlands,Marrakech,-7.394,32.011,Morocco,1,2498
+Amsterdam,5.273,52.514,Netherlands,Luxor,33.177,26.118,Egypt,1,3744
+Amsterdam,5.273,52.514,Netherlands,Hurghada,34.332,27.297,Egypt,1,3693
+Mahe,55.869,-4.458,Seychelles,Praslin,56.152,-3.866,Seychelles,1,72
+Mahe,55.869,-4.458,Seychelles,Plaisance,58.139,-20.051,Mauritius,1,1751
+Mahe,55.869,-4.458,Seychelles,Johannesburg,28.41,-25.566,South Africa,1,3751
+Praslin,56.152,-3.866,Seychelles,Mahe,55.869,-4.458,Seychelles,1,72
+Plaisance,58.139,-20.051,Mauritius,Mahe,55.869,-4.458,Seychelles,1,1751
+Johannesburg,28.41,-25.566,South Africa,Mahe,55.869,-4.458,Seychelles,1,3751
+Vienna,16.949,48.183,Austria,Marsa Alam,34.972,25.928,Egypt,1,2930
+Salzburg,13.007,48.322,Austria,Marsa Alam,34.972,25.928,Egypt,1,3137
+Salzburg,13.007,48.322,Austria,Hurghada,34.332,27.297,Egypt,1,2974
+Linz,14.312,48.388,Austria,Sharm El Sheikh,34.658,28.628,Egypt,1,2803
+Graz,15.732,47.651,Austria,Sharm El Sheikh,34.658,28.628,Egypt,1,2670
+Arua,31.528,3.083,Uganda,Entebbe,32.739,0.07,Uganda,1,361
+Entebbe,32.739,0.07,Uganda,Arua,31.528,3.083,Uganda,1,361
+Bahrain,51.056,26.451,Bahrain,Nairobi,37.545,-0.866,Kenya,1,3365
+Bahrain,51.056,26.451,Bahrain,Entebbe,32.739,0.07,Uganda,1,3528
+Bahrain,51.056,26.451,Bahrain,Addis Ababa,39.332,9.629,Ethiopia,1,2240
+Sharjah,55.861,25.547,United Arab Emirates,Nairobi,37.545,-0.866,Kenya,1,3535
+Sharjah,55.861,25.547,United Arab Emirates,Luxor,33.177,26.118,Egypt,1,2268
+Sharjah,55.861,25.547,United Arab Emirates,Asyut,31.019,27.077,Egypt,1,2477
+Sharjah,55.861,25.547,United Arab Emirates,Alexandria,30.16,31.529,Egypt,1,2590
+Dubai,55.607,25.421,United Arab Emirates,Port Sudan,37.39,19.722,Sudan,1,1972
+Dubai,55.607,25.421,United Arab Emirates,Djibouti,43.265,11.912,Djibouti,1,1983
+St. Petersburg,30.437,60.333,Russia,Sharm El Sheikh,34.658,28.628,Egypt,1,3539
+St. Petersburg,30.437,60.333,Russia,Hurghada,34.332,27.297,Egypt,1,3685
+Abu Dhabi,55.085,24.721,United Arab Emirates,Mahe,55.869,-4.458,Seychelles,1,3245
+Zanzibar,39.374,-5.704,Tanzania,Addis Ababa,39.332,9.629,Ethiopia,1,1704
+Tel-aviv,35.477,32.018,Israel,Addis Ababa,39.332,9.629,Ethiopia,1,2520
+Shire Indasilase,38.454,14.13,Ethiopia,Makale,39.889,13.778,Ethiopia,1,159
+Pointe-noire,12.477,-4.694,Congo (Brazzaville),Addis Ababa,39.332,9.629,Ethiopia,1,3374
+Beijing,116.974,40.133,China,Addis Ababa,39.332,9.629,Ethiopia,1,8271
+Ouagadougou,-1.188,12.588,Burkina Faso,Addis Ababa,39.332,9.629,Ethiopia,1,4429
+Yaounde,11.922,4.204,Cameroon,Libreville,9.687,0.764,Gabon,1,456
+Yaounde,11.922,4.204,Cameroon,Cotonou,2.64,6.595,Benin,1,1061
+Niamey,2.306,13.802,Niger,Abuja,7.438,9.011,Nigeria,1,772
+N'djamena,15.056,12.222,Chad,Addis Ababa,39.332,9.629,Ethiopia,1,2665
+Makale,39.889,13.778,Ethiopia,Shire Indasilase,38.454,14.13,Ethiopia,1,159
+Makale,39.889,13.778,Ethiopia,Khartoum,32.921,15.982,Sudan,1,787
+Makale,39.889,13.778,Ethiopia,Humera,37.027,14.5,Ethiopia,1,318
+Makale,39.889,13.778,Ethiopia,Addis Ababa,39.332,9.629,Ethiopia,1,465
+Maputo,32.954,-25.869,Mozambique,Addis Ababa,39.332,9.629,Ethiopia,1,4007
+Lusaka,28.754,-14.885,Zambia,Addis Ababa,39.332,9.629,Ethiopia,1,2964
+Lagos,3.535,6.962,Nigeria,Lome,1.424,6.276,Togo,1,245
+Lagos,3.535,6.962,Nigeria,Libreville,9.687,0.764,Gabon,1,969
+Lagos,3.535,6.962,Nigeria,Addis Ababa,39.332,9.629,Ethiopia,1,3948
+Lilongwe,34.301,-13.649,Malawi,Addis Ababa,39.332,9.629,Ethiopia,1,2647
+Lalibella,39.633,12.625,Ethiopia,Gondar,37.723,12.866,Ethiopia,1,208
+Lalibella,39.633,12.625,Ethiopia,Axum,39.288,14.244,Ethiopia,1,183
+Lalibella,39.633,12.625,Ethiopia,Addis Ababa,39.332,9.629,Ethiopia,1,334
+Lome,1.424,6.276,Togo,Lagos,3.535,6.962,Nigeria,1,245
+Lome,1.424,6.276,Togo,Abuja,7.438,9.011,Nigeria,1,729
+Lome,1.424,6.276,Togo,Abidjan,-3.878,5.435,Cote d'Ivoire,1,593
+Libreville,9.687,0.764,Gabon,Yaounde,11.922,4.204,Cameroon,1,456
+Libreville,9.687,0.764,Gabon,Lagos,3.535,6.962,Nigeria,1,969
+Libreville,9.687,0.764,Gabon,Addis Ababa,39.332,9.629,Ethiopia,1,3424
+Luanda,13.385,-8.764,Angola,Addis Ababa,39.332,9.629,Ethiopia,1,3526
+Khartoum,32.921,15.982,Sudan,Bahar Dar,37.536,12.013,Ethiopia,1,665
+Jimma,37.361,8.11,Ethiopia,Gambella,34.938,8.214,Ethiopia,1,266
+Jimma,37.361,8.11,Ethiopia,Arba Minch,37.984,6.065,Ethiopia,1,237
+Jimma,37.361,8.11,Ethiopia,Addis Ababa,39.332,9.629,Ethiopia,1,274
+Jijiga,43.312,9.599,Ethiopia,Gode,43.964,6.558,Ethiopia,1,345
+Jijiga,43.312,9.599,Ethiopia,Dire Dawa,42.423,10.041,Ethiopia,1,109
+Jijiga,43.312,9.599,Ethiopia,Kabri Dehar,44.421,7.223,Ethiopia,1,290
+Djibouti,43.265,11.912,Djibouti,Dire Dawa,42.423,10.041,Ethiopia,1,227
+Washington,-77.094,39.574,United States,Addis Ababa,39.332,9.629,Ethiopia,1,11496
+Humera,37.027,14.5,Ethiopia,Makale,39.889,13.778,Ethiopia,1,318
+Harare,31.154,-17.887,Zimbabwe,Addis Ababa,39.332,9.629,Ethiopia,1,3188
+Gambella,34.938,8.214,Ethiopia,Addis Ababa,39.332,9.629,Ethiopia,1,507
+Gondar,37.723,12.866,Ethiopia,Lalibella,39.633,12.625,Ethiopia,1,208
+Gondar,37.723,12.866,Ethiopia,Axum,39.288,14.244,Ethiopia,1,228
+Gondar,37.723,12.866,Ethiopia,Addis Ababa,39.332,9.629,Ethiopia,1,400
+Gode,43.964,6.558,Ethiopia,Jijiga,43.312,9.599,Ethiopia,1,345
+Kinshasa,15.74,-3.977,Congo (Kinshasa),Libreville,9.687,0.764,Gabon,1,854
+Kinshasa,15.74,-3.977,Congo (Kinshasa),Addis Ababa,39.332,9.629,Ethiopia,1,3020
+Lubumashi,27.884,-11.319,Congo (Kinshasa),Lilongwe,34.301,-13.649,Malawi,1,743
+Lubumashi,27.884,-11.319,Congo (Kinshasa),Addis Ababa,39.332,9.629,Ethiopia,1,2650
+Dire Dawa,42.423,10.041,Ethiopia,Jijiga,43.312,9.599,Ethiopia,1,109
+Dire Dawa,42.423,10.041,Ethiopia,Djibouti,43.265,11.912,Djibouti,1,227
+Dire Dawa,42.423,10.041,Ethiopia,Addis Ababa,39.332,9.629,Ethiopia,1,341
+Cotonou,2.64,6.595,Benin,Yaounde,11.922,4.204,Cameroon,1,1061
+Paris,2.916,49.021,France,Addis Ababa,39.332,9.629,Ethiopia,1,5528
+Bahar Dar,37.536,12.013,Ethiopia,Makale,39.889,13.778,Ethiopia,1,321
+Bahar Dar,37.536,12.013,Ethiopia,Lalibella,39.633,12.625,Ethiopia,1,237
+Bahar Dar,37.536,12.013,Ethiopia,Addis Ababa,39.332,9.629,Ethiopia,1,329
+Axum,39.288,14.244,Ethiopia,Lalibella,39.633,12.625,Ethiopia,1,183
+Axum,39.288,14.244,Ethiopia,Gondar,37.723,12.866,Ethiopia,1,228
+Axum,39.288,14.244,Ethiopia,Addis Ababa,39.332,9.629,Ethiopia,1,513
+Asosa,34.977,10.03,Ethiopia,Addis Ababa,39.332,9.629,Ethiopia,1,479
+Arba Minch,37.984,6.065,Ethiopia,Jimma,37.361,8.11,Ethiopia,1,237
+Arba Minch,37.984,6.065,Ethiopia,Addis Ababa,39.332,9.629,Ethiopia,1,423
+Addis Ababa,39.332,9.629,Ethiopia,Ouagadougou,-1.188,12.588,Burkina Faso,1,4429
+Addis Ababa,39.332,9.629,Ethiopia,N'djamena,15.056,12.222,Chad,1,2665
+Addis Ababa,39.332,9.629,Ethiopia,Makale,39.889,13.778,Ethiopia,1,465
+Addis Ababa,39.332,9.629,Ethiopia,Maputo,32.954,-25.869,Mozambique,1,4007
+Addis Ababa,39.332,9.629,Ethiopia,Lusaka,28.754,-14.885,Zambia,1,2964
+Addis Ababa,39.332,9.629,Ethiopia,Lagos,3.535,6.962,Nigeria,1,3948
+Addis Ababa,39.332,9.629,Ethiopia,Lilongwe,34.301,-13.649,Malawi,1,2647
+Addis Ababa,39.332,9.629,Ethiopia,Lalibella,39.633,12.625,Ethiopia,1,334
+Addis Ababa,39.332,9.629,Ethiopia,Libreville,9.687,0.764,Gabon,1,3424
+Addis Ababa,39.332,9.629,Ethiopia,Luanda,13.385,-8.764,Angola,1,3526
+Addis Ababa,39.332,9.629,Ethiopia,Jimma,37.361,8.11,Ethiopia,1,274
+Addis Ababa,39.332,9.629,Ethiopia,Harare,31.154,-17.887,Zimbabwe,1,3188
+Addis Ababa,39.332,9.629,Ethiopia,Gambella,34.938,8.214,Ethiopia,1,507
+Addis Ababa,39.332,9.629,Ethiopia,Gondar,37.723,12.866,Ethiopia,1,400
+Addis Ababa,39.332,9.629,Ethiopia,Dire Dawa,42.423,10.041,Ethiopia,1,341
+Addis Ababa,39.332,9.629,Ethiopia,Bahar Dar,37.536,12.013,Ethiopia,1,329
+Addis Ababa,39.332,9.629,Ethiopia,Asosa,34.977,10.03,Ethiopia,1,479
+Addis Ababa,39.332,9.629,Ethiopia,Arba Minch,37.984,6.065,Ethiopia,1,423
+Addis Ababa,39.332,9.629,Ethiopia,Accra,0.388,6.008,Ghana,1,4306
+Addis Ababa,39.332,9.629,Ethiopia,Abuja,7.438,9.011,Nigeria,1,3499
+Accra,0.388,6.008,Ghana,Addis Ababa,39.332,9.629,Ethiopia,1,4306
+Abuja,7.438,9.011,Nigeria,Niamey,2.306,13.802,Niger,1,772
+Abuja,7.438,9.011,Nigeria,Lome,1.424,6.276,Togo,1,729
+Abuja,7.438,9.011,Nigeria,Addis Ababa,39.332,9.629,Ethiopia,1,3499
+Kabri Dehar,44.421,7.223,Ethiopia,Jijiga,43.312,9.599,Ethiopia,1,290
+Dubai,55.607,25.421,United Arab Emirates,Mahe,55.869,-4.458,Seychelles,1,3322
+Dubai,55.607,25.421,United Arab Emirates,Lagos,3.535,6.962,Nigeria,1,5883
+Dubai,55.607,25.421,United Arab Emirates,Dakar,-17.151,15.232,Senegal,1,7585
+Dubai,55.607,25.421,United Arab Emirates,Dar Es Salaam,39.337,-6.797,Tanzania,1,3991
+Dubai,55.607,25.421,United Arab Emirates,Casablanca,-7.317,33.612,Morocco,1,6065
+Dubai,55.607,25.421,United Arab Emirates,Accra,0.388,6.008,Ghana,1,6241
+Dublin,-5.784,53.702,Ireland,Agadir,-9.244,30.635,Morocco,1,2579
+Khartoum,32.921,15.982,Sudan,Alexandria,30.16,31.529,Egypt,1,1751
+Alexandria,30.16,31.529,Egypt,Khartoum,32.921,15.982,Sudan,1,1751
+Oslo,11.167,60.323,Norway,Marrakech,-7.394,32.011,Morocco,1,3430
+Oslo,11.167,60.323,Norway,Agadir,-9.244,30.635,Morocco,1,3630
+Copenhagen,13.093,56.029,Denmark,Marrakech,-7.394,32.011,Morocco,1,3106
+Copenhagen,13.093,56.029,Denmark,Agadir,-9.244,30.635,Morocco,1,3319
+Stockholm,18.531,60.086,Sweden,Marrakech,-7.394,32.011,Morocco,1,3656
+Stockholm,18.531,60.086,Sweden,Agadir,-9.244,30.635,Morocco,1,3867
+Windhoek,17.77,-22.145,Namibia,Lubango,13.958,-14.875,Angola,1,902
+Ondjiva,16.139,-16.406,Angola,Kuito,17.579,-12.008,Angola,1,513
+Ondjiva,16.139,-16.406,Angola,Lubango,13.958,-14.875,Angola,1,288
+Ondjiva,16.139,-16.406,Angola,Huambo,16.267,-12.682,Angola,1,414
+Ondjiva,16.139,-16.406,Angola,Luanda,13.385,-8.764,Angola,1,900
+Ondjiva,16.139,-16.406,Angola,Catumbela,13.811,-12.132,Angola,1,537
+Saurimo,20.719,-9.482,Angola,Malanje,16.52,-9.209,Angola,1,461
+Saurimo,20.719,-9.482,Angola,Luanda,13.385,-8.764,Angola,1,809
+Sao Tome,7.186,0.63,Sao Tome and Principe,"Praia,Santiago Island",-23.156,15.54,Cape Verde,1,3719
+Sao Tome,7.186,0.63,Sao Tome and Principe,Luanda,13.385,-8.764,Angola,1,1250
+Kuito,17.579,-12.008,Angola,Ondjiva,16.139,-16.406,Angola,1,513
+Kuito,17.579,-12.008,Angola,Menongue,18.199,-14.43,Angola,1,277
+Kuito,17.579,-12.008,Angola,Luanda,13.385,-8.764,Angola,1,583
+Menongue,18.199,-14.43,Angola,Kuito,17.579,-12.008,Angola,1,277
+Menongue,18.199,-14.43,Angola,Huambo,16.267,-12.682,Angola,1,285
+Menongue,18.199,-14.43,Angola,Luanda,13.385,-8.764,Angola,1,819
+Lubango,13.958,-14.875,Angola,Windhoek,17.77,-22.145,Namibia,1,902
+Lubango,13.958,-14.875,Angola,Ondjiva,16.139,-16.406,Angola,1,288
+Lubango,13.958,-14.875,Angola,Luanda,13.385,-8.764,Angola,1,682
+Lubango,13.958,-14.875,Angola,Catumbela,13.811,-12.132,Angola,1,305
+"Praia,Santiago Island",-23.156,15.54,Cape Verde,Sao Tome,7.186,0.63,Sao Tome and Principe,1,3719
+Beijing,116.974,40.133,China,Luanda,13.385,-8.764,Angola,1,11787
+Porto,-8.469,41.413,Portugal,Luanda,13.385,-8.764,Angola,1,6009
+Huambo,16.267,-12.682,Angola,Ondjiva,16.139,-16.406,Angola,1,414
+Huambo,16.267,-12.682,Angola,Menongue,18.199,-14.43,Angola,1,285
+Huambo,16.267,-12.682,Angola,Luanda,13.385,-8.764,Angola,1,537
+Mocamedes,12.244,-14.769,Angola,Luanda,13.385,-8.764,Angola,1,679
+Malanje,16.52,-9.209,Angola,Saurimo,20.719,-9.482,Angola,1,461
+Malanje,16.52,-9.209,Angola,Luanda,13.385,-8.764,Angola,1,347
+Luena,20.496,-11.614,Angola,Luanda,13.385,-8.764,Angola,1,840
+Lusaka,28.754,-14.885,Zambia,Luanda,13.385,-8.764,Angola,1,1804
+Luanda,13.385,-8.764,Angola,Ondjiva,16.139,-16.406,Angola,1,900
+Luanda,13.385,-8.764,Angola,Saurimo,20.719,-9.482,Angola,1,809
+Luanda,13.385,-8.764,Angola,Sao Tome,7.186,0.63,Sao Tome and Principe,1,1250
+Luanda,13.385,-8.764,Angola,Kuito,17.579,-12.008,Angola,1,583
+Luanda,13.385,-8.764,Angola,Menongue,18.199,-14.43,Angola,1,819
+Luanda,13.385,-8.764,Angola,Lubango,13.958,-14.875,Angola,1,682
+Luanda,13.385,-8.764,Angola,Huambo,16.267,-12.682,Angola,1,537
+Luanda,13.385,-8.764,Angola,Mocamedes,12.244,-14.769,Angola,1,679
+Luanda,13.385,-8.764,Angola,Malanje,16.52,-9.209,Angola,1,347
+Luanda,13.385,-8.764,Angola,Luena,20.496,-11.614,Angola,1,840
+Luanda,13.385,-8.764,Angola,Harare,31.154,-17.887,Zimbabwe,1,2171
+Luanda,13.385,-8.764,Angola,Cape Town,19.002,-33.942,South Africa,1,2858
+Luanda,13.385,-8.764,Angola,Catumbela,13.811,-12.132,Angola,1,377
+Luanda,13.385,-8.764,Angola,Cabinda,12.313,-5.329,Angola,1,399
+Havana,-82.016,23.648,Cuba,Luanda,13.385,-8.764,Angola,1,10943
+Sao Paulo,-46.116,-23.054,Brazil,Luanda,13.385,-8.764,Angola,1,6514
+Rio De Janeiro,-42.74,-22.682,Brazil,Luanda,13.385,-8.764,Angola,1,6166
+Cape Town,19.002,-33.942,South Africa,Luanda,13.385,-8.764,Angola,1,2858
+Catumbela,13.811,-12.132,Angola,Ondjiva,16.139,-16.406,Angola,1,537
+Catumbela,13.811,-12.132,Angola,Lubango,13.958,-14.875,Angola,1,305
+Catumbela,13.811,-12.132,Angola,Luanda,13.385,-8.764,Angola,1,377
+Cabinda,12.313,-5.329,Angola,Luanda,13.385,-8.764,Angola,1,399
+Brazzaville,15.421,-3.753,Congo (Kinshasa),Luanda,13.385,-8.764,Angola,1,600
+Brazzaville,15.421,-3.753,Congo (Kinshasa),Bangui,18.864,4.664,Central African Republic,1,1011
+Ziguinchor,-15.803,12.926,Senegal,Dakar,-17.151,15.232,Senegal,1,294
+Ziguinchor,-15.803,12.926,Senegal,Cap Skiring,-16.577,12.683,Senegal,1,88
+Niamey,2.306,13.802,Niger,Bamako,-7.917,12.889,Mali,1,1110
+Dakar,-17.151,15.232,Senegal,Ziguinchor,-15.803,12.926,Senegal,1,294
+Cap Skiring,-16.577,12.683,Senegal,Dakar,-17.151,15.232,Senegal,1,290
+Bamako,-7.917,12.889,Mali,Niamey,2.306,13.802,Niger,1,1110
+New York,-73.632,41.066,United States,Dakar,-17.151,15.232,Senegal,1,6110
+Atlanta,-84.047,34.061,United States,Johannesburg,28.41,-25.566,South Africa,1,13545
+Atlanta,-84.047,34.061,United States,Accra,0.388,6.008,Ghana,1,9122
+Munich,12.31,48.589,Germany,Sharm El Sheikh,34.658,28.628,Egypt,1,2926
+Munich,12.31,48.589,Germany,Agadir,-9.244,30.635,Morocco,1,2700
+Hamburg,10.647,54.05,Germany,Agadir,-9.244,30.635,Morocco,1,3050
+Frankfurt,8.905,50.044,Germany,Sharm El Sheikh,34.658,28.628,Egypt,1,3220
+Frankfurt,8.905,50.044,Germany,Mahe,55.869,-4.458,Seychelles,1,7542
+Frankfurt,8.905,50.044,Germany,Nairobi,37.545,-0.866,Kenya,1,6282
+Frankfurt,8.905,50.044,Germany,Mombasa,39.99,-3.392,Kenya,1,6644
+Frankfurt,8.905,50.044,Germany,Kilimanjaro,37.124,-3.05,Tanzania,1,6491
+Frankfurt,8.905,50.044,Germany,Banjul,-16.421,13.563,Gambia,1,4661
+Frankfurt,8.905,50.044,Germany,Agadir,-9.244,30.635,Morocco,1,2635
+Brazzaville,15.421,-3.753,Congo (Kinshasa),Johannesburg,28.41,-25.566,South Africa,1,2793
+Houston,-94.903,30.64,United States,Lagos,3.535,6.962,Nigeria,1,10412
+Maun,23.718,-19.955,Botswana,Johannesburg,28.41,-25.566,South Africa,1,787
+Maun,23.718,-19.955,Botswana,Gaberone,26.53,-24.259,Botswana,1,559
+Maun,23.718,-19.955,Botswana,Kasane,25.27,-17.722,Botswana,1,297
+Lusaka,28.754,-14.885,Zambia,Gaberone,26.53,-24.259,Botswana,1,1067
+Johannesburg,28.41,-25.566,South Africa,Maun,23.718,-19.955,Botswana,1,787
+Johannesburg,28.41,-25.566,South Africa,Francistown,27.79,-20.6,Botswana,1,555
+Johannesburg,28.41,-25.566,South Africa,Kasane,25.27,-17.722,Botswana,1,930
+Harare,31.154,-17.887,Zimbabwe,Gaberone,26.53,-24.259,Botswana,1,855
+Gaberone,26.53,-24.259,Botswana,Maun,23.718,-19.955,Botswana,1,559
+Gaberone,26.53,-24.259,Botswana,Lusaka,28.754,-14.885,Zambia,1,1067
+Gaberone,26.53,-24.259,Botswana,Francistown,27.79,-20.6,Botswana,1,426
+Gaberone,26.53,-24.259,Botswana,Kasane,25.27,-17.722,Botswana,1,738
+Francistown,27.79,-20.6,Botswana,Johannesburg,28.41,-25.566,South Africa,1,555
+Francistown,27.79,-20.6,Botswana,Gaberone,26.53,-24.259,Botswana,1,426
+Kasane,25.27,-17.722,Botswana,Maun,23.718,-19.955,Botswana,1,297
+Kasane,25.27,-17.722,Botswana,Johannesburg,28.41,-25.566,South Africa,1,930
+Kasane,25.27,-17.722,Botswana,Gaberone,26.53,-24.259,Botswana,1,738
+London,-0.103,51.795,United Kingdom,Freetown,-12.66,9.027,Sierra Leone,1,4891
+Beirut,35.813,34.368,Lebanon,Khartoum,32.921,15.982,Sudan,1,2064
+London,-0.103,51.795,United Kingdom,Lusaka,28.754,-14.885,Zambia,1,7921
+London,-0.103,51.795,United Kingdom,Entebbe,32.739,0.07,Uganda,1,6519
+London,-0.103,51.795,United Kingdom,Dar Es Salaam,39.337,-6.797,Tanzania,1,7515
+Rome,12.417,42.34,Italy,Tripoli,13.265,33.105,Libya,1,1029
+Rome,12.417,42.34,Italy,Lagos,3.535,6.962,Nigeria,1,4029
+Montreal,-73.569,45.784,Canada,Casablanca,-7.317,33.612,Morocco,1,5660
+Dakhla,-15.887,24.197,Western Sahara,Marrakech,-7.394,32.011,Morocco,1,1202
+Dakhla,-15.887,24.197,Western Sahara,El Aaiún,-12.699,27.252,Western Sahara,1,466
+Dakhla,-15.887,24.197,Western Sahara,Casablanca,-7.317,33.612,Morocco,1,1337
+Dakhla,-15.887,24.197,Western Sahara,Agadir,-9.244,30.635,Morocco,1,970
+Berlin,13.479,52.932,Germany,Casablanca,-7.317,33.612,Morocco,1,2708
+Tan Tan,-10.603,28.746,Morocco,Casablanca,-7.317,33.612,Morocco,1,624
+Torino,8.082,45.334,Italy,Casablanca,-7.317,33.612,Morocco,1,1850
+Tanger,-5.862,36.211,Morocco,Casablanca,-7.317,33.612,Morocco,1,317
+Tripoli,13.265,33.105,Libya,Casablanca,-7.317,33.612,Morocco,1,1909
+Strasbourg,8.047,48.897,France,Casablanca,-7.317,33.612,Morocco,1,2121
+Moscow,38.51,55.681,Russia,Casablanca,-7.317,33.612,Morocco,1,4262
+Malabo,9.181,4.258,Equatorial Guinea,Casablanca,-7.317,33.612,Morocco,1,3684
+Monrovia,-9.938,6.389,Liberia,Casablanca,-7.317,33.612,Morocco,1,3039
+Marrakech,-7.394,32.011,Morocco,Dakhla,-15.887,24.197,Western Sahara,1,1202
+Marrakech,-7.394,32.011,Morocco,Casablanca,-7.317,33.612,Morocco,1,178
+Pointe-noire,12.477,-4.694,Congo (Brazzaville),Casablanca,-7.317,33.612,Morocco,1,4740
+Ouarzazate,-6.85,31.565,Morocco,Casablanca,-7.317,33.612,Morocco,1,231
+Bissau,-15.423,12.491,Guinea-Bissau,Casablanca,-7.317,33.612,Morocco,1,2488
+Oujda,-1.874,35.311,Morocco,Casablanca,-7.317,33.612,Morocco,1,533
+Ouagadougou,-1.188,12.588,Burkina Faso,Casablanca,-7.317,33.612,Morocco,1,2418
+Paris,2.916,49.021,France,Ouarzazate,-6.85,31.565,Morocco,1,2106
+Paris,2.916,49.021,France,Essadouira,-9.47,31.662,Morocco,1,2190
+Nantes,-1.352,47.255,France,Casablanca,-7.317,33.612,Morocco,1,1597
+Nantes,-1.352,47.255,France,Agadir,-9.244,30.635,Morocco,1,1967
+Yaounde,11.922,4.204,Cameroon,Casablanca,-7.317,33.612,Morocco,1,3829
+Niamey,2.306,13.802,Niger,Casablanca,-7.317,33.612,Morocco,1,2407
+Nice,7.359,44.097,France,Marrakech,-7.394,32.011,Morocco,1,1858
+Nice,7.359,44.097,France,Casablanca,-7.317,33.612,Morocco,1,1719
+Munich,12.31,48.589,Germany,Marrakech,-7.394,32.011,Morocco,1,2473
+Marseille,5.356,43.725,France,Oujda,-1.874,35.311,Morocco,1,1121
+Lagos,3.535,6.962,Nigeria,Casablanca,-7.317,33.612,Morocco,1,3166
+London,-0.103,51.795,United Kingdom,Tanger,-5.862,36.211,Morocco,1,1791
+Lome,1.424,6.276,Togo,Casablanca,-7.317,33.612,Morocco,1,3170
+Libreville,9.687,0.764,Gabon,Luanda,13.385,-8.764,Angola,1,1135
+Libreville,9.687,0.764,Gabon,Casablanca,-7.317,33.612,Morocco,1,4060
+Luanda,13.385,-8.764,Angola,Libreville,9.687,0.764,Gabon,1,1135
+Geneva,6.181,46.396,Switzerland,Casablanca,-7.317,33.612,Morocco,1,1822
+Freetown,-12.66,9.027,Sierra Leone,Casablanca,-7.317,33.612,Morocco,1,2787
+Kinshasa,15.74,-3.977,Congo (Kinshasa),Casablanca,-7.317,33.612,Morocco,1,4830
+Fez,-4.964,34.545,Morocco,Casablanca,-7.317,33.612,Morocco,1,240
+El Aaiún,-12.699,27.252,Western Sahara,Dakhla,-15.887,24.197,Western Sahara,1,466
+El Aaiún,-12.699,27.252,Western Sahara,Casablanca,-7.317,33.612,Morocco,1,875
+Douala,10.199,4.01,Cameroon,Casablanca,-7.317,33.612,Morocco,1,3758
+Dakar,-17.151,15.232,Senegal,Casablanca,-7.317,33.612,Morocco,1,2270
+Cotonou,2.64,6.595,Benin,Casablanca,-7.317,33.612,Morocco,1,3174
+Casablanca,-7.317,33.612,Morocco,Dakhla,-15.887,24.197,Western Sahara,1,1337
+Casablanca,-7.317,33.612,Morocco,Tan Tan,-10.603,28.746,Morocco,1,624
+Casablanca,-7.317,33.612,Morocco,Tanger,-5.862,36.211,Morocco,1,317
+Casablanca,-7.317,33.612,Morocco,Tripoli,13.265,33.105,Libya,1,1909
+Casablanca,-7.317,33.612,Morocco,Malabo,9.181,4.258,Equatorial Guinea,1,3684
+Casablanca,-7.317,33.612,Morocco,Monrovia,-9.938,6.389,Liberia,1,3039
+Casablanca,-7.317,33.612,Morocco,Marrakech,-7.394,32.011,Morocco,1,178
+Casablanca,-7.317,33.612,Morocco,Ouarzazate,-6.85,31.565,Morocco,1,231
+Casablanca,-7.317,33.612,Morocco,Oujda,-1.874,35.311,Morocco,1,533
+Casablanca,-7.317,33.612,Morocco,Ouagadougou,-1.188,12.588,Burkina Faso,1,2418
+Casablanca,-7.317,33.612,Morocco,Yaounde,11.922,4.204,Cameroon,1,3829
+Casablanca,-7.317,33.612,Morocco,Niamey,2.306,13.802,Niger,1,2407
+Casablanca,-7.317,33.612,Morocco,Lagos,3.535,6.962,Nigeria,1,3166
+Casablanca,-7.317,33.612,Morocco,Lome,1.424,6.276,Togo,1,3170
+Casablanca,-7.317,33.612,Morocco,Libreville,9.687,0.764,Gabon,1,4060
+Casablanca,-7.317,33.612,Morocco,Freetown,-12.66,9.027,Sierra Leone,1,2787
+Casablanca,-7.317,33.612,Morocco,Fez,-4.964,34.545,Morocco,1,240
+Casablanca,-7.317,33.612,Morocco,El Aaiún,-12.699,27.252,Western Sahara,1,875
+Casablanca,-7.317,33.612,Morocco,Douala,10.199,4.01,Cameroon,1,3758
+Casablanca,-7.317,33.612,Morocco,Dakar,-17.151,15.232,Senegal,1,2270
+Casablanca,-7.317,33.612,Morocco,Cotonou,2.64,6.595,Benin,1,3174
+Casablanca,-7.317,33.612,Morocco,Conakry,-13.354,9.961,Guinea,1,2701
+Casablanca,-7.317,33.612,Morocco,Bamako,-7.917,12.889,Mali,1,2305
+Casablanca,-7.317,33.612,Morocco,Banjul,-16.421,13.563,Gambia,1,2411
+Casablanca,-7.317,33.612,Morocco,Agadir,-9.244,30.635,Morocco,1,377
+Casablanca,-7.317,33.612,Morocco,Accra,0.388,6.008,Ghana,1,3170
+Casablanca,-7.317,33.612,Morocco,Abidjan,-3.878,5.435,Cote d'Ivoire,1,3153
+Conakry,-13.354,9.961,Guinea,Casablanca,-7.317,33.612,Morocco,1,2701
+Brazzaville,15.421,-3.753,Congo (Kinshasa),Casablanca,-7.317,33.612,Morocco,1,4792
+Brussels,4.807,51.502,Belgium,Marrakech,-7.394,32.011,Morocco,1,2384
+Bamako,-7.917,12.889,Mali,Casablanca,-7.317,33.612,Morocco,1,2305
+Banjul,-16.421,13.563,Gambia,Bissau,-15.423,12.491,Guinea-Bissau,1,160
+Banjul,-16.421,13.563,Gambia,Casablanca,-7.317,33.612,Morocco,1,2411
+Beirut,35.813,34.368,Lebanon,Casablanca,-7.317,33.612,Morocco,1,3946
+Amsterdam,5.273,52.514,Netherlands,Casablanca,-7.317,33.612,Morocco,1,2329
+Amsterdam,5.273,52.514,Netherlands,Al Hociema,-3.733,35.295,Morocco,1,2042
+Al Hociema,-3.733,35.295,Morocco,Oujda,-1.874,35.311,Morocco,1,168
+Agadir,-9.244,30.635,Morocco,Dakhla,-15.887,24.197,Western Sahara,1,970
+Agadir,-9.244,30.635,Morocco,Casablanca,-7.317,33.612,Morocco,1,377
+Accra,0.388,6.008,Ghana,Casablanca,-7.317,33.612,Morocco,1,3170
+Abidjan,-3.878,5.435,Cote d'Ivoire,Casablanca,-7.317,33.612,Morocco,1,3153
+Montreal,-73.569,45.784,Canada,Algier,3.359,37.151,Algeria,1,6231
+Illizi,9.037,27.205,Algeria,Ghardaia,4.323,32.64,Algeria,1,755
+Timimoun,0.46,29.395,Algeria,Algier,3.359,37.151,Algeria,1,903
+Tamanrasset,5.751,23.352,Algeria,Djanet,9.754,24.487,Algeria,1,425
+Tamanrasset,5.751,23.352,Algeria,Algier,3.359,37.151,Algeria,1,1551
+Tlemcen,-1.084,35.027,Algeria,Algier,3.359,37.151,Algeria,1,463
+Tindouf,-7.612,28.167,Algeria,Oran,-0.369,36.039,Algeria,1,1108
+Tindouf,-7.612,28.167,Algeria,Constantine,7.033,36.46,Algeria,1,1653
+Tindouf,-7.612,28.167,Algeria,Béchar,-1.784,32.076,Algeria,1,709
+Tindouf,-7.612,28.167,Algeria,Algier,3.359,37.151,Algeria,1,1430
+Tiaret,1.771,35.568,Algeria,Algier,3.359,37.151,Algeria,1,226
+Tebessa,8.201,35.719,Algeria,Algier,3.359,37.151,Algeria,1,461
+Moscow,38.51,55.681,Russia,Algier,3.359,37.151,Algeria,1,3333
+Setif,5.54,36.296,Algeria,Algier,3.359,37.151,Algeria,1,216
+Palma de Mallorca,3.212,39.922,Spain,Algier,3.359,37.151,Algeria,1,308
+Beijing,116.974,40.133,China,Algier,3.359,37.151,Algeria,1,9079
+Ouagadougou,-1.188,12.588,Burkina Faso,Algier,3.359,37.151,Algeria,1,2768
+Oran,-0.369,36.039,Algeria,Tindouf,-7.612,28.167,Algeria,1,1108
+Oran,-0.369,36.039,Algeria,Constantine,7.033,36.46,Algeria,1,665
+Oran,-0.369,36.039,Algeria,Algier,3.359,37.151,Algeria,1,355
+Oran,-0.369,36.039,Algeria,Annaba,8.348,37.37,Algeria,1,790
+Nouakschott,-15.914,18.163,Mauritania,Algier,3.359,37.151,Algeria,1,2827
+Niamey,2.306,13.802,Niger,Algier,3.359,37.151,Algeria,1,2598
+Nice,7.359,44.097,France,Constantine,7.033,36.46,Algeria,1,849
+Nice,7.359,44.097,France,Algier,3.359,37.151,Algeria,1,842
+Milano,9.213,46.051,Italy,Algier,3.359,37.151,Algeria,1,1102
+Marseille,5.356,43.725,France,Batna,6.514,36.253,Algeria,1,836
+Lyon,5.151,46.21,France,Biskra,6.23,35.322,Algeria,1,1214
+Lyon,5.151,46.21,France,Batna,6.514,36.253,Algeria,1,1112
+Lyon,5.151,46.21,France,Bejaja,5.116,37.186,Algeria,1,1003
+Lyon,5.151,46.21,France,Annaba,8.348,37.37,Algeria,1,1017
+Laghouat,3.547,34.273,Algeria,Algier,3.359,37.151,Algeria,1,320
+Zarzaitine,10.071,28.085,Algeria,Algier,3.359,37.151,Algeria,1,1187
+Hassi-messaoud,6.234,32.121,Algeria,Algier,3.359,37.151,Algeria,1,617
+Geneva,6.181,46.396,Switzerland,Algier,3.359,37.151,Algeria,1,1054
+Jijel,6.456,37.325,Algeria,Algier,3.359,37.151,Algeria,1,274
+Ghardaia,4.323,32.64,Algeria,Illizi,9.037,27.205,Algeria,1,755
+Ghardaia,4.323,32.64,Algeria,Algier,3.359,37.151,Algeria,1,509
+Metz,6.418,49.636,France,Algier,3.359,37.151,Algeria,1,1409
+Dubai,55.607,25.421,United Arab Emirates,Algier,3.359,37.151,Algeria,1,5067
+Dakar,-17.151,15.232,Senegal,Algier,3.359,37.151,Algeria,1,3167
+Djanet,9.754,24.487,Algeria,Algier,3.359,37.151,Algeria,1,1533
+Constantine,7.033,36.46,Algeria,Tindouf,-7.612,28.167,Algeria,1,1653
+Constantine,7.033,36.46,Algeria,Oran,-0.369,36.039,Algeria,1,665
+Constantine,7.033,36.46,Algeria,Béchar,-1.784,32.076,Algeria,1,944
+Constantine,7.033,36.46,Algeria,Algier,3.359,37.151,Algeria,1,335
+Béchar,-1.784,32.076,Algeria,Tindouf,-7.612,28.167,Algeria,1,709
+Béchar,-1.784,32.076,Algeria,Constantine,7.033,36.46,Algeria,1,944
+Béchar,-1.784,32.076,Algeria,Algier,3.359,37.151,Algeria,1,734
+Biskra,6.23,35.322,Algeria,Algier,3.359,37.151,Algeria,1,328
+Brussels,4.807,51.502,Belgium,Algier,3.359,37.151,Algeria,1,1599
+Bordeaux,-0.526,45.38,France,Algier,3.359,37.151,Algeria,1,970
+Bordj Badji Mokhtar,1.539,21.625,Algeria,Adrar,0.355,28.395,Algeria,1,762
+Batna,6.514,36.253,Algeria,Algier,3.359,37.151,Algeria,1,298
+Bamako,-7.917,12.889,Mali,Algier,3.359,37.151,Algeria,1,2921
+Bejaja,5.116,37.186,Algeria,Algier,3.359,37.151,Algeria,1,155
+Beirut,35.813,34.368,Lebanon,Algier,3.359,37.151,Algeria,1,2930
+Barcelona,2.13,41.495,Spain,Oran,-0.369,36.039,Algeria,1,644
+Adrar,0.355,28.395,Algeria,Bordj Badji Mokhtar,1.539,21.625,Algeria,1,762
+Adrar,0.355,28.395,Algeria,Algier,3.359,37.151,Algeria,1,1013
+Amman,36.655,32.204,Jordan,Algier,3.359,37.151,Algeria,1,3077
+Algier,3.359,37.151,Algeria,Timimoun,0.46,29.395,Algeria,1,903
+Algier,3.359,37.151,Algeria,Tamanrasset,5.751,23.352,Algeria,1,1551
+Algier,3.359,37.151,Algeria,Tlemcen,-1.084,35.027,Algeria,1,463
+Algier,3.359,37.151,Algeria,Tindouf,-7.612,28.167,Algeria,1,1430
+Algier,3.359,37.151,Algeria,Tebessa,8.201,35.719,Algeria,1,461
+Algier,3.359,37.151,Algeria,Setif,5.54,36.296,Algeria,1,216
+Algier,3.359,37.151,Algeria,Ouagadougou,-1.188,12.588,Burkina Faso,1,2768
+Algier,3.359,37.151,Algeria,Oran,-0.369,36.039,Algeria,1,355
+Algier,3.359,37.151,Algeria,Ouargla,5.687,32.528,Algeria,1,556
+Algier,3.359,37.151,Algeria,Nouakschott,-15.914,18.163,Mauritania,1,2827
+Algier,3.359,37.151,Algeria,Niamey,2.306,13.802,Niger,1,2598
+Algier,3.359,37.151,Algeria,Laghouat,3.547,34.273,Algeria,1,320
+Algier,3.359,37.151,Algeria,Zarzaitine,10.071,28.085,Algeria,1,1187
+Algier,3.359,37.151,Algeria,Hassi-messaoud,6.234,32.121,Algeria,1,617
+Algier,3.359,37.151,Algeria,Jijel,6.456,37.325,Algeria,1,274
+Algier,3.359,37.151,Algeria,Ghardaia,4.323,32.64,Algeria,1,509
+Algier,3.359,37.151,Algeria,Dakar,-17.151,15.232,Senegal,1,3167
+Algier,3.359,37.151,Algeria,Constantine,7.033,36.46,Algeria,1,335
+Algier,3.359,37.151,Algeria,Béchar,-1.784,32.076,Algeria,1,734
+Algier,3.359,37.151,Algeria,Biskra,6.23,35.322,Algeria,1,328
+Algier,3.359,37.151,Algeria,Batna,6.514,36.253,Algeria,1,298
+Algier,3.359,37.151,Algeria,Bamako,-7.917,12.889,Mali,1,2921
+Algier,3.359,37.151,Algeria,Bejaja,5.116,37.186,Algeria,1,155
+Algier,3.359,37.151,Algeria,Adrar,0.355,28.395,Algeria,1,1013
+Algier,3.359,37.151,Algeria,Annaba,8.348,37.37,Algeria,1,442
+Annaba,8.348,37.37,Algeria,Oran,-0.369,36.039,Algeria,1,790
+Annaba,8.348,37.37,Algeria,Algier,3.359,37.151,Algeria,1,442
+Monrovia,-9.938,6.389,Liberia,Conakry,-13.354,9.961,Guinea,1,546
+Nouakschott,-15.914,18.163,Mauritania,Conakry,-13.354,9.961,Guinea,1,952
+Jeddah,39.26,22.132,Saudi Arabia,Djibouti,43.265,11.912,Djibouti,1,1213
+Freetown,-12.66,9.027,Sierra Leone,Conakry,-13.354,9.961,Guinea,1,128
+Conakry,-13.354,9.961,Guinea,Monrovia,-9.938,6.389,Liberia,1,546
+Conakry,-13.354,9.961,Guinea,Nouakschott,-15.914,18.163,Mauritania,1,952
+Conakry,-13.354,9.961,Guinea,Freetown,-12.66,9.027,Sierra Leone,1,128
+Paris,2.916,49.021,France,Malabo,9.181,4.258,Equatorial Guinea,1,5012
+Paris,2.916,49.021,France,Nouakschott,-15.914,18.163,Mauritania,1,3825
+Paris,2.916,49.021,France,N'djamena,15.056,12.222,Chad,1,4241
+Paris,2.916,49.021,France,Lagos,3.535,6.962,Nigeria,1,4677
+Paris,2.916,49.021,France,Lome,1.424,6.276,Togo,1,4755
+Paris,2.916,49.021,France,Libreville,9.687,0.764,Gabon,1,5404
+Paris,2.916,49.021,France,Cape Town,19.002,-33.942,South Africa,1,9361
+Paris,2.916,49.021,France,Cotonou,2.64,6.595,Benin,1,4717
+Paris,2.916,49.021,France,Conakry,-13.354,9.961,Guinea,1,4598
+Paris,2.916,49.021,France,Bangui,18.864,4.664,Central African Republic,1,5157
+Berlin,13.479,52.932,Germany,Luxor,33.177,26.118,Egypt,1,3401
+Berlin,13.479,52.932,Germany,Hurghada,34.332,27.297,Egypt,1,3330
+Stuttgart,9.369,49.149,Germany,Hurghada,34.332,27.297,Egypt,1,3234
+Paderborn,9.027,52.023,Germany,Hurghada,34.332,27.297,Egypt,1,3463
+Nuernberg,11.111,49.831,Germany,Sharm El Sheikh,34.658,28.628,Egypt,1,3083
+Nuernberg,11.111,49.831,Germany,Marsa Alam,34.972,25.928,Egypt,1,3353
+Nuernberg,11.111,49.831,Germany,Enfidha,10.731,36.126,Tunisia,1,1524
+Nuernberg,11.111,49.831,Germany,Luxor,33.177,26.118,Egypt,1,3243
+Nuernberg,11.111,49.831,Germany,Hurghada,34.332,27.297,Egypt,1,3190
+Nuernberg,11.111,49.831,Germany,Djerba,11.292,34.458,Tunisia,1,1709
+Nuernberg,11.111,49.831,Germany,Agadir,-9.244,30.635,Morocco,1,2727
+Munich,12.31,48.589,Germany,Windhoek,17.77,-22.145,Namibia,1,7884
+Munich,12.31,48.589,Germany,Mombasa,39.99,-3.392,Kenya,1,6370
+Munich,12.31,48.589,Germany,Luxor,33.177,26.118,Egypt,1,3083
+Leipzig,12.402,51.72,Germany,Luxor,33.177,26.118,Egypt,1,3340
+Leipzig,12.402,51.72,Germany,Hurghada,34.332,27.297,Egypt,1,3276
+Hannover,10.141,52.768,Germany,Luxor,33.177,26.118,Egypt,1,3529
+Duesseldorf,7.277,51.482,Germany,Sharm El Sheikh,34.658,28.628,Egypt,1,3408
+Duesseldorf,7.277,51.482,Germany,Marsa Alam,34.972,25.928,Egypt,1,3677
+Duesseldorf,7.277,51.482,Germany,Mombasa,39.99,-3.392,Kenya,1,6841
+Duesseldorf,7.277,51.482,Germany,Luxor,33.177,26.118,Egypt,1,3565
+Dresden,14.278,51.221,Germany,Hurghada,34.332,27.297,Egypt,1,3148
+Cologne,7.237,51.443,Germany,Luxor,33.177,26.118,Egypt,1,3564
+Cologne,7.237,51.443,Germany,Hurghada,34.332,27.297,Egypt,1,3513
+N'djamena,15.056,12.222,Chad,Khartoum,32.921,15.982,Sudan,1,1970
+N'djamena,15.056,12.222,Chad,Bangui,18.864,4.664,Central African Republic,1,938
+N'djamena,15.056,12.222,Chad,Abeche,21.407,14.411,Chad,1,728
+Bangui,18.864,4.664,Central African Republic,N'djamena,15.056,12.222,Chad,1,938
+Abeche,21.407,14.411,Chad,N'djamena,15.056,12.222,Chad,1,728
+Toulouse,1.606,44.048,France,Agadir,-9.244,30.635,Morocco,1,1769
+Marseille,5.356,43.725,France,Agadir,-9.244,30.635,Morocco,1,1941
+Lille,3.149,50.936,France,Marrakech,-7.394,32.011,Morocco,1,2274
+Charleroi,4.756,50.765,Belgium,Casablanca,-7.317,33.612,Morocco,1,2144
+Bordeaux,-0.526,45.38,France,Agadir,-9.244,30.635,Morocco,1,1806
+Brest,-4.031,48.746,France,Marrakech,-7.394,32.011,Morocco,1,1882
+Mpumalanga,31.176,-24.972,South Africa,Vilankulu,35.522,-21.365,Mozambique,1,598
+Mogadishu,45.507,2.024,Somalia,Hargeisa,44.147,9.863,Somalia,1,884
+Djibouti,43.265,11.912,Djibouti,Mogadishu,45.507,2.024,Somalia,1,1126
+Djibouti,43.265,11.912,Djibouti,Hargeisa,44.147,9.863,Somalia,1,247
+Hargeisa,44.147,9.863,Somalia,Mogadishu,45.507,2.024,Somalia,1,884
+Hargeisa,44.147,9.863,Somalia,Djibouti,43.265,11.912,Djibouti,1,247
+Hargeisa,44.147,9.863,Somalia,Bosaso,49.249,11.458,Somalia,1,585
+Galcaio,47.757,7.301,Somalia,Bosaso,49.249,11.458,Somalia,1,490
+Galcaio,47.757,7.301,Somalia,Berbera,45.568,10.648,Somalia,1,443
+Bosaso,49.249,11.458,Somalia,Berbera,45.568,10.648,Somalia,1,411
+Berbera,45.568,10.648,Somalia,Djibouti,43.265,11.912,Djibouti,1,287
+Berbera,45.568,10.648,Somalia,Galcaio,47.757,7.301,Somalia,1,443
+Zanzibar,39.374,-5.704,Tanzania,Arusha,37.055,-2.947,Tanzania,1,400
+Nairobi,37.545,-0.866,Kenya,Ukunda,39.952,-3.829,Kenya,1,424
+Nairobi,37.545,-0.866,Kenya,Amboseli National Park,37.421,-2.409,Kenya,1,172
+Nanyuki,37.055,0.555,Kenya,Nairobi,37.545,-0.866,Kenya,1,167
+Nairobi,37.545,-0.866,Kenya,Lamu,41.521,-1.755,Kenya,1,452
+Nairobi,37.545,-0.866,Kenya,Kitale,35.597,1.619,Kenya,1,351
+Malindi,40.169,-2.716,Kenya,Lamu,41.521,-1.755,Kenya,1,184
+Mombasa,39.99,-3.392,Kenya,Ukunda,39.952,-3.829,Kenya,1,48
+Mombasa,39.99,-3.392,Kenya,Malindi,40.169,-2.716,Kenya,1,77
+Mombasa,39.99,-3.392,Kenya,Lamu,41.521,-1.755,Kenya,1,249
+Lodwar,36.014,3.203,Kenya,Kitale,35.597,1.619,Kenya,1,182
+Lamu,41.521,-1.755,Kenya,Malindi,40.169,-2.716,Kenya,1,184
+Kitale,35.597,1.619,Kenya,Nairobi,37.545,-0.866,Kenya,1,351
+Kitale,35.597,1.619,Kenya,Lodwar,36.014,3.203,Kenya,1,182
+Kisumu,35.214,0.523,Kenya,Eldoret,35.398,0.674,Kenya,1,26
+Amboseli National Park,37.421,-2.409,Kenya,Nairobi,37.545,-0.866,Kenya,1,172
+Arusha,37.055,-2.947,Tanzania,Zanzibar,39.374,-5.704,Tanzania,1,400
+Zurich,8.915,47.774,Switzerland,Luxor,33.177,26.118,Egypt,1,3204
+Basel-Mulhouse-Freiburg,7.881,47.983,Switzerland,Sharm El Sheikh,34.658,28.628,Egypt,1,3146
+Basel-Mulhouse-Freiburg,7.881,47.983,Switzerland,Marsa Alam,34.972,25.928,Egypt,1,3402
+Basel-Mulhouse-Freiburg,7.881,47.983,Switzerland,Hurghada,34.332,27.297,Egypt,1,3242
+Tel-aviv,35.477,32.018,Israel,Cairo,31.675,30.203,Egypt,1,414
+Treviso,12.324,46.08,Italy,Casablanca,-7.317,33.612,Morocco,1,2165
+Montpellier,4.605,43.96,France,Tanger,-5.862,36.211,Morocco,1,1237
+Montpellier,4.605,43.96,France,Casablanca,-7.317,33.612,Morocco,1,1543
+Levaldigi,8.038,44.911,Italy,Casablanca,-7.317,33.612,Morocco,1,1817
+Bergamo,10.173,46.123,Italy,Casablanca,-7.317,33.612,Morocco,1,2031
+Ouagadougou,-1.188,12.588,Burkina Faso,Dakar,-17.151,15.232,Senegal,1,1747
+Ouagadougou,-1.188,12.588,Burkina Faso,Bobo-dioulasso,-3.885,11.266,Burkina Faso,1,328
+Ouagadougou,-1.188,12.588,Burkina Faso,Accra,0.388,6.008,Ghana,1,751
+Dakar,-17.151,15.232,Senegal,Ouagadougou,-1.188,12.588,Burkina Faso,1,1747
+Bobo-dioulasso,-3.885,11.266,Burkina Faso,Ouagadougou,-1.188,12.588,Burkina Faso,1,328
+Bobo-dioulasso,-3.885,11.266,Burkina Faso,Abidjan,-3.878,5.435,Cote d'Ivoire,1,648
+Accra,0.388,6.008,Ghana,Ouagadougou,-1.188,12.588,Burkina Faso,1,751
+Abidjan,-3.878,5.435,Cote d'Ivoire,Bobo-dioulasso,-3.885,11.266,Burkina Faso,1,648
